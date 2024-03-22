@@ -77,9 +77,7 @@
 		<KS_ID>
 			2
 		</KS_ID>
-		<title>
-			ул. Владимирская / Международный институт рынка
-		</title>
+		<title>Владимирская / Международный институт рынка</title>
 		<adjacentStreet>
 			на ул. Коммунистической
 		</adjacentStreet>
@@ -149,9 +147,7 @@
 		<KS_ID>
 			3
 		</KS_ID>
-		<title>
-			ул. Клиническая
-		</title>
+		<title>Клиническая</title>
 		<adjacentStreet>
 			на ул. Коммунистической
 		</adjacentStreet>
@@ -289,9 +285,7 @@
 		<KS_ID>
 			5
 		</KS_ID>
-		<title>
-			ул. Киевская
-		</title>
+		<title>Киевская</title>
 		<adjacentStreet>
 			на Московском шоссе
 		</adjacentStreet>
@@ -361,9 +355,7 @@
 		<KS_ID>
 			6
 		</KS_ID>
-		<title>
-			ул. Киевская
-		</title>
+		<title>Киевская</title>
 		<adjacentStreet>
 			на Московском шоссе
 		</adjacentStreet>
@@ -505,9 +497,7 @@
 		<KS_ID>
 			8
 		</KS_ID>
-		<title>
-			ул. Революционная
-		</title>
+		<title>Революционная</title>
 		<adjacentStreet>
 			на Московском шоссе
 		</adjacentStreet>
@@ -724,9 +714,7 @@
 		<KS_ID>
 			11
 		</KS_ID>
-		<title>
-			ул. Потапова
-		</title>
+		<title>Потапова</title>
 		<adjacentStreet>
 			на Московском шоссе
 		</adjacentStreet>
@@ -1297,9 +1285,7 @@
 		<KS_ID>
 			21
 		</KS_ID>
-		<title>
-			ул. Стара-Загора
-		</title>
+		<title>Стара-Загора</title>
 		<adjacentStreet>
 			на пр. Кирова
 		</adjacentStreet>
@@ -1513,9 +1499,7 @@
 		<KS_ID>
 			24
 		</KS_ID>
-		<title>
-			ул. Черемшанская
-		</title>
+		<title>Черемшанская</title>
 		<adjacentStreet>
 			на пр. Кирова
 		</adjacentStreet>
@@ -1585,9 +1569,7 @@
 		<KS_ID>
 			25
 		</KS_ID>
-		<title>
-			ул. Ставропольская
-		</title>
+		<title>Ставропольская</title>
 		<adjacentStreet>
 			на пр. Кирова
 		</adjacentStreet>
@@ -2164,9 +2146,7 @@
 		<KS_ID>
 			33
 		</KS_ID>
-		<title>
-			ул. Береговая
-		</title>
+		<title>Береговая</title>
 		<adjacentStreet>
 			на пр. Кирова
 		</adjacentStreet>
@@ -2455,9 +2435,7 @@
 		<KS_ID>
 			37
 		</KS_ID>
-		<title>
-			ул. Воронежская
-		</title>
+		<title>Воронежская</title>
 		<adjacentStreet>
 			на ул. Вольской
 		</adjacentStreet>
@@ -2526,9 +2504,7 @@
 		<KS_ID>
 			38
 		</KS_ID>
-		<title>
-			ул. Ново-Вокзальная
-		</title>
+		<title>Ново-Вокзальная</title>
 		<adjacentStreet>
 			на Московском шоссе
 		</adjacentStreet>
@@ -3030,9 +3006,7 @@
 		<KS_ID>
 			45
 		</KS_ID>
-		<title>
-			ул. Пугачевская
-		</title>
+		<title>Пугачевская</title>
 		<adjacentStreet>
 			на пр. Металлургов
 		</adjacentStreet>
@@ -3246,9 +3220,7 @@
 		<KS_ID>
 			48
 		</KS_ID>
-		<title>
-			ул. Советская
-		</title>
+		<title>Советская</title>
 		<adjacentStreet>
 			на пр. Металлургов
 		</adjacentStreet>
@@ -3318,9 +3290,7 @@
 		<KS_ID>
 			49
 		</KS_ID>
-		<title>
-			ул. Севастопольская
-		</title>
+		<title>Севастопольская</title>
 		<adjacentStreet>
 			на пр. Металлургов
 		</adjacentStreet>
@@ -3390,9 +3360,7 @@
 		<KS_ID>
 			50
 		</KS_ID>
-		<title>
-			ул. Буянова
-		</title>
+		<title>Буянова</title>
 		<adjacentStreet>
 			на ул. Чкалова
 		</adjacentStreet>
@@ -3459,9 +3427,7 @@
 		<KS_ID>
 			51
 		</KS_ID>
-		<title>
-			ул. Молодежная
-		</title>
+		<title>Молодежная</title>
 		<adjacentStreet>
 			на пр. Кирова
 		</adjacentStreet>
@@ -3531,9 +3497,7 @@
 		<KS_ID>
 			52
 		</KS_ID>
-		<title>
-			ул. Буянова
-		</title>
+		<title>Буянова</title>
 		<adjacentStreet>
 			на ул. Льва Толстого
 		</adjacentStreet>
@@ -3603,9 +3567,7 @@
 		<KS_ID>
 			53
 		</KS_ID>
-		<title>
-			ул. Некрасовская
-		</title>
+		<title>Некрасовская</title>
 		<adjacentStreet>
 			на ул. Куйбышева
 		</adjacentStreet>
@@ -3675,9 +3637,7 @@
 		<KS_ID>
 			54
 		</KS_ID>
-		<title>
-			ул. Куйбышева
-		</title>
+		<title>Куйбышева</title>
 		<adjacentStreet>
 			на ул. Некрасовской
 		</adjacentStreet>
@@ -3953,9 +3913,7 @@
 		<KS_ID>
 			58
 		</KS_ID>
-		<title>
-			ул. Некрасовская
-		</title>
+		<title>Некрасовская</title>
 		<adjacentStreet>
 			на ул. Некрасовской
 		</adjacentStreet>
@@ -4022,9 +3980,7 @@
 		<KS_ID>
 			59
 		</KS_ID>
-		<title>
-			ул. Молодогвардейская
-		</title>
+		<title>Молодогвардейская</title>
 		<adjacentStreet>
 			на ул. Некрасовской
 		</adjacentStreet>
@@ -4091,9 +4047,7 @@
 		<KS_ID>
 			60
 		</KS_ID>
-		<title>
-			ул. Братьев Коростелевых
-		</title>
+		<title>Братьев Коростелевых</title>
 		<adjacentStreet>
 			на ул. Ленинградской
 		</adjacentStreet>
@@ -4379,9 +4333,7 @@
 		<KS_ID>
 			64
 		</KS_ID>
-		<title>
-			ул. Крупской
-		</title>
+		<title>Крупской</title>
 		<adjacentStreet>
 			на ул. Водников
 		</adjacentStreet>
@@ -4449,9 +4401,7 @@
 		<KS_ID>
 			65
 		</KS_ID>
-		<title>
-			ул. Кутякова
-		</title>
+		<title>Кутякова</title>
 		<adjacentStreet>
 			на ул. Водников
 		</adjacentStreet>
@@ -4519,9 +4469,7 @@
 		<KS_ID>
 			66
 		</KS_ID>
-		<title>
-			ул. Тракторная
-		</title>
+		<title>Тракторная</title>
 		<adjacentStreet>
 			на ул. Главной
 		</adjacentStreet>
@@ -4592,9 +4540,7 @@
 		<KS_ID>
 			67
 		</KS_ID>
-		<title>
-			ул. Дарвина
-		</title>
+		<title>Дарвина</title>
 		<adjacentStreet>
 			на ул. Шоссейной
 		</adjacentStreet>
@@ -4664,9 +4610,7 @@
 		<KS_ID>
 			68
 		</KS_ID>
-		<title>
-			ул. Дарвина
-		</title>
+		<title>Дарвина</title>
 		<adjacentStreet>
 			на ул. Шоссейной
 		</adjacentStreet>
@@ -5458,9 +5402,7 @@
 		<KS_ID>
 			79
 		</KS_ID>
-		<title>
-			ул. Войкова
-		</title>
+		<title>Войкова</title>
 		<adjacentStreet>
 			на Новокуйбышевском шоссе
 		</adjacentStreet>
@@ -5530,9 +5472,7 @@
 		<KS_ID>
 			80
 		</KS_ID>
-		<title>
-			ул. Войкова
-		</title>
+		<title>Войкова</title>
 		<adjacentStreet>
 			на Новокуйбышевском шоссе
 		</adjacentStreet>
@@ -5746,9 +5686,7 @@
 		<KS_ID>
 			83
 		</KS_ID>
-		<title>
-			ул. Зеленая
-		</title>
+		<title>Зеленая</title>
 		<adjacentStreet>
 			на ул. Бакинской
 		</adjacentStreet>
@@ -5889,9 +5827,7 @@
 		<KS_ID>
 			85
 		</KS_ID>
-		<title>
-			ул. Калининградская
-		</title>
+		<title>Калининградская</title>
 		<adjacentStreet>
 			на ул. Калининградской
 		</adjacentStreet>
@@ -5956,9 +5892,7 @@
 		<KS_ID>
 			86
 		</KS_ID>
-		<title>
-			ул. Грозненская
-		</title>
+		<title>Грозненская</title>
 		<adjacentStreet>
 			на ул. Бакинской
 		</adjacentStreet>
@@ -6028,9 +5962,7 @@
 		<KS_ID>
 			87
 		</KS_ID>
-		<title>
-			ул. Бакинская
-		</title>
+		<title>Бакинская</title>
 		<adjacentStreet>
 			на Пугачевском тракте
 		</adjacentStreet>
@@ -6242,9 +6174,7 @@
 		<KS_ID>
 			90
 		</KS_ID>
-		<title>
-			ул. Средне-Садовая
-		</title>
+		<title>Средне-Садовая</title>
 		<adjacentStreet>
 			на ул. Победы
 		</adjacentStreet>
@@ -6314,9 +6244,7 @@
 		<KS_ID>
 			91
 		</KS_ID>
-		<title>
-			ул. Александра Матросова
-		</title>
+		<title>Александра Матросова</title>
 		<adjacentStreet>
 			на ул. Победы
 		</adjacentStreet>
@@ -6599,9 +6527,7 @@
 		<KS_ID>
 			96
 		</KS_ID>
-		<title>
-			ул. Кабельная
-		</title>
+		<title>Кабельная</title>
 		<adjacentStreet>
 			на ул. Кабельной
 		</adjacentStreet>
@@ -6739,9 +6665,7 @@
 		<KS_ID>
 			98
 		</KS_ID>
-		<title>
-			ул. Ново-Вокзальная
-		</title>
+		<title>Ново-Вокзальная</title>
 		<adjacentStreet>
 			на ул. Вольской
 		</adjacentStreet>
@@ -6954,9 +6878,7 @@
 		<KS_ID>
 			102
 		</KS_ID>
-		<title>
-			ул. XXII Партсъезда
-		</title>
+		<title>XXII Партсъезда</title>
 		<adjacentStreet>
 			на ул. Вольской
 		</adjacentStreet>
@@ -7024,9 +6946,7 @@
 		<KS_ID>
 			103
 		</KS_ID>
-		<title>
-			ул. Александра Матросова
-		</title>
+		<title>Александра Матросова</title>
 		<adjacentStreet>
 			на ул. Вольской
 		</adjacentStreet>
@@ -7167,9 +7087,7 @@
 		<KS_ID>
 			105
 		</KS_ID>
-		<title>
-			ул. Карбышева
-		</title>
+		<title>Карбышева</title>
 		<adjacentStreet>
 			на ул. Антонова-Овсеенко
 		</adjacentStreet>
@@ -7239,9 +7157,7 @@
 		<KS_ID>
 			106
 		</KS_ID>
-		<title>
-			ул. Ивана Булкина
-		</title>
+		<title>Ивана Булкина</title>
 		<adjacentStreet>
 			на ул. Антонова-Овсеенко
 		</adjacentStreet>
@@ -7456,9 +7372,7 @@
 		<KS_ID>
 			109
 		</KS_ID>
-		<title>
-			ул. Водников
-		</title>
+		<title>Водников</title>
 		<adjacentStreet>
 			на ул. Водников
 		</adjacentStreet>
@@ -7527,9 +7441,7 @@
 		<KS_ID>
 			110
 		</KS_ID>
-		<title>
-			ул. Крупской
-		</title>
+		<title>Крупской</title>
 		<adjacentStreet>
 			на ул. Водников
 		</adjacentStreet>
@@ -7597,9 +7509,7 @@
 		<KS_ID>
 			111
 		</KS_ID>
-		<title>
-			ул. Фадеева
-		</title>
+		<title>Фадеева</title>
 		<adjacentStreet>
 			на ул. Двадцать Второго Партсъезда
 		</adjacentStreet>
@@ -7811,9 +7721,7 @@
 		<KS_ID>
 			114
 		</KS_ID>
-		<title>
-			ул. Ново-Вокзальная
-		</title>
+		<title>Ново-Вокзальная</title>
 		<adjacentStreet>
 			на ул. Стара-Загора
 		</adjacentStreet>
@@ -7883,9 +7791,7 @@
 		<KS_ID>
 			115
 		</KS_ID>
-		<title>
-			ул. Воронежская
-		</title>
+		<title>Воронежская</title>
 		<adjacentStreet>
 			на ул. Стара-Загора
 		</adjacentStreet>
@@ -8450,9 +8356,7 @@
 		<KS_ID>
 			123
 		</KS_ID>
-		<title>
-			ул. Мичурина
-		</title>
+		<title>Мичурина</title>
 		<adjacentStreet>
 			на пр. Масленникова
 		</adjacentStreet>
@@ -8522,9 +8426,7 @@
 		<KS_ID>
 			124
 		</KS_ID>
-		<title>
-			ул. Пионерская
-		</title>
+		<title>Пионерская</title>
 		<adjacentStreet>
 			на ул. Фрунзе
 		</adjacentStreet>
@@ -8591,9 +8493,7 @@
 		<KS_ID>
 			125
 		</KS_ID>
-		<title>
-			ул. Ленинградская
-		</title>
+		<title>Ленинградская</title>
 		<adjacentStreet>
 			на ул. Фрунзе
 		</adjacentStreet>
@@ -8662,9 +8562,7 @@
 		<KS_ID>
 			126
 		</KS_ID>
-		<title>
-			ул. Молодогвардейская
-		</title>
+		<title>Молодогвардейская</title>
 		<adjacentStreet>
 			на ул. Венцека
 		</adjacentStreet>
@@ -8733,9 +8631,7 @@
 		<KS_ID>
 			127
 		</KS_ID>
-		<title>
-			ул. Чапаевская
-		</title>
+		<title>Чапаевская</title>
 		<adjacentStreet>
 			на ул. Венцека
 		</adjacentStreet>
@@ -8800,9 +8696,7 @@
 		<KS_ID>
 			128
 		</KS_ID>
-		<title>
-			ул. Галактионовская
-		</title>
+		<title>Галактионовская</title>
 		<adjacentStreet>
 			на ул. Венцека
 		</adjacentStreet>
@@ -8937,9 +8831,7 @@
 		<KS_ID>
 			130
 		</KS_ID>
-		<title>
-			ул. Высоцкого
-		</title>
+		<title>Высоцкого</title>
 		<adjacentStreet>
 			на ул. Галактионовской
 		</adjacentStreet>
@@ -9007,9 +8899,7 @@
 		<KS_ID>
 			131
 		</KS_ID>
-		<title>
-			ул. Ленинградская
-		</title>
+		<title>Ленинградская</title>
 		<adjacentStreet>
 			на ул. Галактионовской
 		</adjacentStreet>
@@ -9077,9 +8967,7 @@
 		<KS_ID>
 			132
 		</KS_ID>
-		<title>
-			ул. Льва Толстого
-		</title>
+		<title>Льва Толстого</title>
 		<adjacentStreet>
 			на ул. Галактионовской
 		</adjacentStreet>
@@ -9147,9 +9035,7 @@
 		<KS_ID>
 			133
 		</KS_ID>
-		<title>
-			ул. Галактионовская
-		</title>
+		<title>Галактионовская</title>
 		<adjacentStreet>
 			на ул. Красноармейской
 		</adjacentStreet>
@@ -9358,9 +9244,7 @@
 		<KS_ID>
 			136
 		</KS_ID>
-		<title>
-			ул. Красноармейская
-		</title>
+		<title>Красноармейская</title>
 		<adjacentStreet>
 			на ул. Фрунзе
 		</adjacentStreet>
@@ -9428,9 +9312,7 @@
 		<KS_ID>
 			137
 		</KS_ID>
-		<title>
-			ул. Красноармейская
-		</title>
+		<title>Красноармейская</title>
 		<adjacentStreet>
 			на ул. Галактионовской
 		</adjacentStreet>
@@ -9497,9 +9379,7 @@
 		<KS_ID>
 			138
 		</KS_ID>
-		<title>
-			ул. Вилоновская
-		</title>
+		<title>Вилоновская</title>
 		<adjacentStreet>
 			на ул. Галактионовской
 		</adjacentStreet>
@@ -9848,9 +9728,7 @@
 		<KS_ID>
 			143
 		</KS_ID>
-		<title>
-			ул. Братьев Коростелевых
-		</title>
+		<title>Братьев Коростелевых</title>
 		<adjacentStreet>
 			на ул. Красноармейской
 		</adjacentStreet>
@@ -10134,9 +10012,7 @@
 		<KS_ID>
 			147
 		</KS_ID>
-		<title>
-			ул. Пензенская
-		</title>
+		<title>Пензенская</title>
 		<adjacentStreet>
 			на ул. Урицкого
 		</adjacentStreet>
@@ -10206,9 +10082,7 @@
 		<KS_ID>
 			148
 		</KS_ID>
-		<title>
-			ул. Владимирская
-		</title>
+		<title>Владимирская</title>
 		<adjacentStreet>
 			на ул. Пензенской
 		</adjacentStreet>
@@ -10278,9 +10152,7 @@
 		<KS_ID>
 			149
 		</KS_ID>
-		<title>
-			ул. Дачная
-		</title>
+		<title>Дачная</title>
 		<adjacentStreet>
 			на ул. Пензенской
 		</adjacentStreet>
@@ -10350,9 +10222,7 @@
 		<KS_ID>
 			150
 		</KS_ID>
-		<title>
-			ул. Дзержинского
-		</title>
+		<title>Дзержинского</title>
 		<adjacentStreet>
 			на ул. Аэродромной
 		</adjacentStreet>
@@ -10492,9 +10362,7 @@
 		<KS_ID>
 			152
 		</KS_ID>
-		<title>
-			ул. Волгина
-		</title>
+		<title>Волгина</title>
 		<adjacentStreet>
 			на ул. Аэродромной
 		</adjacentStreet>
@@ -10778,9 +10646,7 @@
 		<KS_ID>
 			156
 		</KS_ID>
-		<title>
-			ул. Тухачевского
-		</title>
+		<title>Тухачевского</title>
 		<adjacentStreet>
 			на ул. Партизанской
 		</adjacentStreet>
@@ -10849,9 +10715,7 @@
 		<KS_ID>
 			157
 		</KS_ID>
-		<title>
-			ул. Фрунзе
-		</title>
+		<title>Фрунзе</title>
 		<adjacentStreet>
 			на ул. Венцека
 		</adjacentStreet>
@@ -10919,9 +10783,7 @@
 		<KS_ID>
 			158
 		</KS_ID>
-		<title>
-			ул. Ульяновская
-		</title>
+		<title>Ульяновская</title>
 		<adjacentStreet>
 			на ул. Арцыбушевской
 		</adjacentStreet>
@@ -10989,9 +10851,7 @@
 		<KS_ID>
 			159
 		</KS_ID>
-		<title>
-			ул. Полевая
-		</title>
+		<title>Полевая</title>
 		<adjacentStreet>
 			на ул. Арцыбушевской
 		</adjacentStreet>
@@ -11130,9 +10990,7 @@
 		<KS_ID>
 			161
 		</KS_ID>
-		<title>
-			ул. Первомайская
-		</title>
+		<title>Первомайская</title>
 		<adjacentStreet>
 			на пр. Ленина
 		</adjacentStreet>
@@ -11273,9 +11131,7 @@
 		<KS_ID>
 			163
 		</KS_ID>
-		<title>
-			ул. Челюскинцев
-		</title>
+		<title>Челюскинцев</title>
 		<adjacentStreet>
 			на пр. Ленина
 		</adjacentStreet>
@@ -11481,9 +11337,7 @@
 		<KS_ID>
 			166
 		</KS_ID>
-		<title>
-			ул. Николая Панова
-		</title>
+		<title>Николая Панова</title>
 		<adjacentStreet>
 			на ул. Ново-Садовой
 		</adjacentStreet>
@@ -11550,9 +11404,7 @@
 		<KS_ID>
 			167
 		</KS_ID>
-		<title>
-			ул. Николая Панова
-		</title>
+		<title>Николая Панова</title>
 		<adjacentStreet>
 			на ул. Ново-Садовой
 		</adjacentStreet>
@@ -11896,9 +11748,7 @@
 		<KS_ID>
 			172
 		</KS_ID>
-		<title>
-			ул. Чернореченская
-		</title>
+		<title>Чернореченская</title>
 		<adjacentStreet>
 			на ул. Клинической
 		</adjacentStreet>
@@ -12035,9 +11885,7 @@
 		<KS_ID>
 			174
 		</KS_ID>
-		<title>
-			ул. Пролетарская
-		</title>
+		<title>Пролетарская</title>
 		<adjacentStreet>
 			на ул. Киевской
 		</adjacentStreet>
@@ -12311,9 +12159,7 @@
 		<KS_ID>
 			178
 		</KS_ID>
-		<title>
-			ул. Потапова
-		</title>
+		<title>Потапова</title>
 		<adjacentStreet>
 			на ул. Ново-Садовой
 		</adjacentStreet>
@@ -12380,9 +12226,7 @@
 		<KS_ID>
 			179
 		</KS_ID>
-		<title>
-			ул. Гастелло
-		</title>
+		<title>Гастелло</title>
 		<adjacentStreet>
 			на ул. Ново-Садовой
 		</adjacentStreet>
@@ -12450,9 +12294,7 @@
 		<KS_ID>
 			180
 		</KS_ID>
-		<title>
-			ул. Гастелло
-		</title>
+		<title>Гастелло</title>
 		<adjacentStreet>
 			на ул. Ново-Садовой
 		</adjacentStreet>
@@ -12519,9 +12361,7 @@
 		<KS_ID>
 			181
 		</KS_ID>
-		<title>
-			ул. Советской Армии
-		</title>
+		<title>Советской Армии</title>
 		<adjacentStreet>
 			на ул. Ново-Садовой
 		</adjacentStreet>
@@ -12588,9 +12428,7 @@
 		<KS_ID>
 			182
 		</KS_ID>
-		<title>
-			ул. Советской Армии
-		</title>
+		<title>Советской Армии</title>
 		<adjacentStreet>
 			на ул. Ново-Садовой
 		</adjacentStreet>
@@ -13209,9 +13047,7 @@
 		<KS_ID>
 			191
 		</KS_ID>
-		<title>
-			ул. Аминева
-		</title>
+		<title>Аминева</title>
 		<adjacentStreet>
 			на ул. Ново-Садовой
 		</adjacentStreet>
@@ -13278,9 +13114,7 @@
 		<KS_ID>
 			192
 		</KS_ID>
-		<title>
-			ул. Аминева
-		</title>
+		<title>Аминева</title>
 		<adjacentStreet>
 			на ул. Ново-Садовой
 		</adjacentStreet>
@@ -13761,9 +13595,7 @@
 		<KS_ID>
 			199
 		</KS_ID>
-		<title>
-			ул. Георгия Димитрова
-		</title>
+		<title>Георгия Димитрова</title>
 		<adjacentStreet>
 			на ул. Демократической
 		</adjacentStreet>
@@ -13830,9 +13662,7 @@
 		<KS_ID>
 			200
 		</KS_ID>
-		<title>
-			ул. Георгия Димитрова
-		</title>
+		<title>Георгия Димитрова</title>
 		<adjacentStreet>
 			на ул. Демократической
 		</adjacentStreet>
@@ -13900,9 +13730,7 @@
 		<KS_ID>
 			201
 		</KS_ID>
-		<title>
-			ул. Демократическая
-		</title>
+		<title>Демократическая</title>
 		<adjacentStreet>
 			на ул. Демократической
 		</adjacentStreet>
@@ -13969,9 +13797,7 @@
 		<KS_ID>
 			202
 		</KS_ID>
-		<title>
-			ул. Демократическая
-		</title>
+		<title>Демократическая</title>
 		<adjacentStreet>
 			на ул. Демократической
 		</adjacentStreet>
@@ -14039,9 +13865,7 @@
 		<KS_ID>
 			203
 		</KS_ID>
-		<title>
-			ул. Ташкентская
-		</title>
+		<title>Ташкентская</title>
 		<adjacentStreet>
 			на ул. Ташкентской
 		</adjacentStreet>
@@ -14108,9 +13932,7 @@
 		<KS_ID>
 			204
 		</KS_ID>
-		<title>
-			ул. Силина
-		</title>
+		<title>Силина</title>
 		<adjacentStreet>
 			на ул. Ташкентской
 		</adjacentStreet>
@@ -14454,9 +14276,7 @@
 		<KS_ID>
 			209
 		</KS_ID>
-		<title>
-			ул. Стара-Загора
-		</title>
+		<title>Стара-Загора</title>
 		<adjacentStreet>
 			на ул. Ташкентской
 		</adjacentStreet>
@@ -14661,9 +14481,7 @@
 		<KS_ID>
 			212
 		</KS_ID>
-		<title>
-			ул. Ново-Вокзальная
-		</title>
+		<title>Ново-Вокзальная</title>
 		<adjacentStreet>
 			на ул. Фадеева
 		</adjacentStreet>
@@ -14730,9 +14548,7 @@
 		<KS_ID>
 			213
 		</KS_ID>
-		<title>
-			ул. Фадеева
-		</title>
+		<title>Фадеева</title>
 		<adjacentStreet>
 			на ул. Ново-Вокзальной
 		</adjacentStreet>
@@ -14802,9 +14618,7 @@
 		<KS_ID>
 			214
 		</KS_ID>
-		<title>
-			ул. Стара-Загора
-		</title>
+		<title>Стара-Загора</title>
 		<adjacentStreet>
 			на ул. Ново-Вокзальной
 		</adjacentStreet>
@@ -14946,9 +14760,7 @@
 		<KS_ID>
 			216
 		</KS_ID>
-		<title>
-			ул. Нагорная
-		</title>
+		<title>Нагорная</title>
 		<adjacentStreet>
 			на ул. Ново-Вокзальной
 		</adjacentStreet>
@@ -15018,9 +14830,7 @@
 		<KS_ID>
 			217
 		</KS_ID>
-		<title>
-			ул. Ставропольская
-		</title>
+		<title>Ставропольская</title>
 		<adjacentStreet>
 			на ул. Ново-Вокзальной
 		</adjacentStreet>
@@ -15160,9 +14970,7 @@
 		<KS_ID>
 			219
 		</KS_ID>
-		<title>
-			ул. Мичурина
-		</title>
+		<title>Мичурина</title>
 		<adjacentStreet>
 			на ул. Врубеля
 		</adjacentStreet>
@@ -15229,9 +15037,7 @@
 		<KS_ID>
 			220
 		</KS_ID>
-		<title>
-			ул. Гая
-		</title>
+		<title>Гая</title>
 		<adjacentStreet>
 			на ул. Врубеля
 		</adjacentStreet>
@@ -15298,9 +15104,7 @@
 		<KS_ID>
 			221
 		</KS_ID>
-		<title>
-			ул. Гая
-		</title>
+		<title>Гая</title>
 		<adjacentStreet>
 			на ул. Врубеля
 		</adjacentStreet>
@@ -15643,9 +15447,7 @@
 		<KS_ID>
 			226
 		</KS_ID>
-		<title>
-			ул. Ивана Булкина
-		</title>
+		<title>Ивана Булкина</title>
 		<adjacentStreet>
 			на ул. Антонова-Овсеенко
 		</adjacentStreet>
@@ -15712,9 +15514,7 @@
 		<KS_ID>
 			227
 		</KS_ID>
-		<title>
-			ул. Ивана Булкина
-		</title>
+		<title>Ивана Булкина</title>
 		<adjacentStreet>
 			на ул. Антонова-Овсеенко
 		</adjacentStreet>
@@ -15781,9 +15581,7 @@
 		<KS_ID>
 			228
 		</KS_ID>
-		<title>
-			ул. Карбышева
-		</title>
+		<title>Карбышева</title>
 		<adjacentStreet>
 			на ул. Антонова-Овсеенко
 		</adjacentStreet>
@@ -15850,9 +15648,7 @@
 		<KS_ID>
 			229
 		</KS_ID>
-		<title>
-			ул. Карбышева
-		</title>
+		<title>Карбышева</title>
 		<adjacentStreet>
 			на ул. Антонова-Овсеенко
 		</adjacentStreet>
@@ -16061,9 +15857,7 @@
 		<KS_ID>
 			232
 		</KS_ID>
-		<title>
-			ул. Советской Армии
-		</title>
+		<title>Советской Армии</title>
 		<adjacentStreet>
 			на ул. Ставропольской
 		</adjacentStreet>
@@ -16130,9 +15924,7 @@
 		<KS_ID>
 			233
 		</KS_ID>
-		<title>
-			ул. Советской Армии
-		</title>
+		<title>Советской Армии</title>
 		<adjacentStreet>
 			на ул. Ставропольской
 		</adjacentStreet>
@@ -16199,9 +15991,7 @@
 		<KS_ID>
 			234
 		</KS_ID>
-		<title>
-			ул. XXII Партсъезда
-		</title>
+		<title>XXII Партсъезда</title>
 		<adjacentStreet>
 			на ул. Двадцать Второго Партсъезда
 		</adjacentStreet>
@@ -16269,9 +16059,7 @@
 		<KS_ID>
 			235
 		</KS_ID>
-		<title>
-			ул. Вольская
-		</title>
+		<title>Вольская</title>
 		<adjacentStreet>
 			на ул. Двадцать Второго Партсъезда
 		</adjacentStreet>
@@ -16341,9 +16129,7 @@
 		<KS_ID>
 			236
 		</KS_ID>
-		<title>
-			ул. Вольская
-		</title>
+		<title>Вольская</title>
 		<adjacentStreet>
 			на ул. Двадцать Второго Партсъезда
 		</adjacentStreet>
@@ -16413,9 +16199,7 @@
 		<KS_ID>
 			239
 		</KS_ID>
-		<title>
-			ул. Красных Коммунаров
-		</title>
+		<title>Красных Коммунаров</title>
 		<adjacentStreet>
 			на ул. Двадцать Второго Партсъезда
 		</adjacentStreet>
@@ -16623,9 +16407,7 @@
 		<KS_ID>
 			242
 		</KS_ID>
-		<title>
-			ул. Кабельная
-		</title>
+		<title>Кабельная</title>
 		<adjacentStreet>
 			на Заводском шоссе
 		</adjacentStreet>
@@ -16905,9 +16687,7 @@
 		<KS_ID>
 			246
 		</KS_ID>
-		<title>
-			ул. Энтузиастов
-		</title>
+		<title>Энтузиастов</title>
 		<adjacentStreet>
 			на ул. Аэродромной
 		</adjacentStreet>
@@ -17049,9 +16829,7 @@
 		<KS_ID>
 			248
 		</KS_ID>
-		<title>
-			ул. Промышленности
-		</title>
+		<title>Промышленности</title>
 		<adjacentStreet>
 			на ул. Аэродромной
 		</adjacentStreet>
@@ -17120,9 +16898,7 @@
 		<KS_ID>
 			249
 		</KS_ID>
-		<title>
-			ул. Советской Армии
-		</title>
+		<title>Советской Армии</title>
 		<adjacentStreet>
 			на ул. Промышленности
 		</adjacentStreet>
@@ -17260,9 +17036,7 @@
 		<KS_ID>
 			251
 		</KS_ID>
-		<title>
-			ул. Каховская
-		</title>
+		<title>Каховская</title>
 		<adjacentStreet>
 			на ул. Победы
 		</adjacentStreet>
@@ -17332,9 +17106,7 @@
 		<KS_ID>
 			252
 		</KS_ID>
-		<title>
-			ул. Юбилейная
-		</title>
+		<title>Юбилейная</title>
 		<adjacentStreet>
 			на ул. Победы
 		</adjacentStreet>
@@ -17616,9 +17388,7 @@
 		<KS_ID>
 			256
 		</KS_ID>
-		<title>
-			ул. Победы
-		</title>
+		<title>Победы</title>
 		<adjacentStreet>
 			на ул. Победы
 		</adjacentStreet>
@@ -17829,9 +17599,7 @@
 		<KS_ID>
 			259
 		</KS_ID>
-		<title>
-			ул. Свободы
-		</title>
+		<title>Свободы</title>
 		<adjacentStreet>
 			на ул. Алма-Атинской
 		</adjacentStreet>
@@ -17899,9 +17667,7 @@
 		<KS_ID>
 			260
 		</KS_ID>
-		<title>
-			ул. Олимпийская
-		</title>
+		<title>Олимпийская</title>
 		<adjacentStreet>
 			на ул. Алма-Атинской
 		</adjacentStreet>
@@ -18037,9 +17803,7 @@
 		<KS_ID>
 			262
 		</KS_ID>
-		<title>
-			ул. Черемшанская
-		</title>
+		<title>Черемшанская</title>
 		<adjacentStreet>
 			на ул. Советской
 		</adjacentStreet>
@@ -18244,9 +18008,7 @@
 		<KS_ID>
 			265
 		</KS_ID>
-		<title>
-			ул. Советская
-		</title>
+		<title>Советская</title>
 		<adjacentStreet>
 			на ул. Советской
 		</adjacentStreet>
@@ -18313,9 +18075,7 @@
 		<KS_ID>
 			266
 		</KS_ID>
-		<title>
-			ул. Советская
-		</title>
+		<title>Советская</title>
 		<adjacentStreet>
 			на ул. Ставропольской
 		</adjacentStreet>
@@ -18383,9 +18143,7 @@
 		<KS_ID>
 			267
 		</KS_ID>
-		<title>
-			ул. Волочаевская
-		</title>
+		<title>Волочаевская</title>
 		<adjacentStreet>
 			на ул. Ставропольской
 		</adjacentStreet>
@@ -18591,9 +18349,7 @@
 		<KS_ID>
 			270
 		</KS_ID>
-		<title>
-			ул. Воронежская
-		</title>
+		<title>Воронежская</title>
 		<adjacentStreet>
 			на ул. Ставропольской
 		</adjacentStreet>
@@ -18660,9 +18416,7 @@
 		<KS_ID>
 			271
 		</KS_ID>
-		<title>
-			ул. Ново-Вокзальная
-		</title>
+		<title>Ново-Вокзальная</title>
 		<adjacentStreet>
 			на ул. Ставропольской
 		</adjacentStreet>
@@ -18729,9 +18483,7 @@
 		<KS_ID>
 			272
 		</KS_ID>
-		<title>
-			ул. Ставропольская
-		</title>
+		<title>Ставропольская</title>
 		<adjacentStreet>
 			на ул. Двадцать Второго Партсъезда
 		</adjacentStreet>
@@ -18799,9 +18551,7 @@
 		<KS_ID>
 			273
 		</KS_ID>
-		<title>
-			ул. Красных Коммунаров
-		</title>
+		<title>Красных Коммунаров</title>
 		<adjacentStreet>
 			на ул. Гагарина
 		</adjacentStreet>
@@ -18869,9 +18619,7 @@
 		<KS_ID>
 			274
 		</KS_ID>
-		<title>
-			ул. Юрия Гагарина
-		</title>
+		<title>Юрия Гагарина</title>
 		<adjacentStreet>
 			на ул. Гагарина
 		</adjacentStreet>
@@ -18940,9 +18688,7 @@
 		<KS_ID>
 			276
 		</KS_ID>
-		<title>
-			ул. Батайская
-		</title>
+		<title>Батайская</title>
 		<adjacentStreet>
 			на ул. Батайской
 		</adjacentStreet>
@@ -19010,9 +18756,7 @@
 		<KS_ID>
 			277
 		</KS_ID>
-		<title>
-			ул. Батайская
-		</title>
+		<title>Батайская</title>
 		<adjacentStreet>
 			на ул. Батайской
 		</adjacentStreet>
@@ -19081,9 +18825,7 @@
 		<KS_ID>
 			278
 		</KS_ID>
-		<title>
-			ул. Батайская
-		</title>
+		<title>Батайская</title>
 		<adjacentStreet>
 			на ул. Батайской
 		</adjacentStreet>
@@ -20222,9 +19964,7 @@
 		<KS_ID>
 			294
 		</KS_ID>
-		<title>
-			ул. Ветвистая
-		</title>
+		<title>Ветвистая</title>
 		<adjacentStreet>
 			на ул. Сергея Лазо
 		</adjacentStreet>
@@ -20719,9 +20459,7 @@
 		<KS_ID>
 			302
 		</KS_ID>
-		<title>
-			ул. Совхозная
-		</title>
+		<title>Совхозная</title>
 		<adjacentStreet>
 			на Московском шоссе
 		</adjacentStreet>
@@ -20790,9 +20528,7 @@
 		<KS_ID>
 			303
 		</KS_ID>
-		<title>
-			ул. Совхозная
-		</title>
+		<title>Совхозная</title>
 		<adjacentStreet>
 			на Московском шоссе
 		</adjacentStreet>
@@ -21214,9 +20950,7 @@
 		<KS_ID>
 			310
 		</KS_ID>
-		<title>
-			ул. Алма-Атинская
-		</title>
+		<title>Алма-Атинская</title>
 		<adjacentStreet>
 			на Московском шоссе
 		</adjacentStreet>
@@ -21285,9 +21019,7 @@
 		<KS_ID>
 			311
 		</KS_ID>
-		<title>
-			ул. Алма-Атинская
-		</title>
+		<title>Алма-Атинская</title>
 		<adjacentStreet>
 			на Московском шоссе
 		</adjacentStreet>
@@ -21498,9 +21230,7 @@
 		<KS_ID>
 			314
 		</KS_ID>
-		<title>
-			ул. Ташкентская
-		</title>
+		<title>Ташкентская</title>
 		<adjacentStreet>
 			на Московском шоссе
 		</adjacentStreet>
@@ -21569,9 +21299,7 @@
 		<KS_ID>
 			315
 		</KS_ID>
-		<title>
-			ул. Ташкентская
-		</title>
+		<title>Ташкентская</title>
 		<adjacentStreet>
 			на Московском шоссе
 		</adjacentStreet>
@@ -21641,9 +21369,7 @@
 		<KS_ID>
 			316
 		</KS_ID>
-		<title>
-			ул. Георгия Димитрова
-		</title>
+		<title>Георгия Димитрова</title>
 		<adjacentStreet>
 			на Московском шоссе
 		</adjacentStreet>
@@ -21713,9 +21439,7 @@
 		<KS_ID>
 			317
 		</KS_ID>
-		<title>
-			ул. Бубнова
-		</title>
+		<title>Бубнова</title>
 		<adjacentStreet>
 			на Московском шоссе
 		</adjacentStreet>
@@ -21856,9 +21580,7 @@
 		<KS_ID>
 			319
 		</KS_ID>
-		<title>
-			ул. Спортивная
-		</title>
+		<title>Спортивная</title>
 		<adjacentStreet>
 			на ул. Спортивной
 		</adjacentStreet>
@@ -22142,9 +21864,7 @@
 		<KS_ID>
 			324
 		</KS_ID>
-		<title>
-			ул. Юрия Гагарина
-		</title>
+		<title>Юрия Гагарина</title>
 		<adjacentStreet>
 			на ул. Революционной
 		</adjacentStreet>
@@ -22281,9 +22001,7 @@
 		<KS_ID>
 			326
 		</KS_ID>
-		<title>
-			ул. Революционная
-		</title>
+		<title>Революционная</title>
 		<adjacentStreet>
 			на ул. Революционной
 		</adjacentStreet>
@@ -22625,9 +22343,7 @@
 		<KS_ID>
 			331
 		</KS_ID>
-		<title>
-			ул. Красноармейская
-		</title>
+		<title>Красноармейская</title>
 		<adjacentStreet>
 			на ул. Самарской
 		</adjacentStreet>
@@ -22695,9 +22411,7 @@
 		<KS_ID>
 			332
 		</KS_ID>
-		<title>
-			ул. Льва Толстого
-		</title>
+		<title>Льва Толстого</title>
 		<adjacentStreet>
 			на ул. Самарской
 		</adjacentStreet>
@@ -22904,9 +22618,7 @@
 		<KS_ID>
 			335
 		</KS_ID>
-		<title>
-			ул. Садовая
-		</title>
+		<title>Садовая</title>
 		<adjacentStreet>
 			на ул. Ленинградской
 		</adjacentStreet>
@@ -23042,9 +22754,7 @@
 		<KS_ID>
 			337
 		</KS_ID>
-		<title>
-			ул. Садовая
-		</title>
+		<title>Садовая</title>
 		<adjacentStreet>
 			на ул. Ленинградской
 		</adjacentStreet>
@@ -23523,9 +23233,7 @@
 		<KS_ID>
 			344
 		</KS_ID>
-		<title>
-			ул. Восточная
-		</title>
+		<title>Восточная</title>
 		<adjacentStreet>
 			на ул. Неверова
 		</adjacentStreet>
@@ -23592,9 +23300,7 @@
 		<KS_ID>
 			345
 		</KS_ID>
-		<title>
-			ул. Восточная
-		</title>
+		<title>Восточная</title>
 		<adjacentStreet>
 			на ул. Неверова
 		</adjacentStreet>
@@ -23661,9 +23367,7 @@
 		<KS_ID>
 			346
 		</KS_ID>
-		<title>
-			ул. Ново-Советская
-		</title>
+		<title>Ново-Советская</title>
 		<adjacentStreet>
 			на ул. Неверова
 		</adjacentStreet>
@@ -23730,9 +23434,7 @@
 		<KS_ID>
 			347
 		</KS_ID>
-		<title>
-			ул. Ново-Советская
-		</title>
+		<title>Ново-Советская</title>
 		<adjacentStreet>
 			на ул. Неверова
 		</adjacentStreet>
@@ -23799,9 +23501,7 @@
 		<KS_ID>
 			348
 		</KS_ID>
-		<title>
-			ул. Железноводская
-		</title>
+		<title>Железноводская</title>
 		<adjacentStreet>
 			на ул. Неверова
 		</adjacentStreet>
@@ -23868,9 +23568,7 @@
 		<KS_ID>
 			349
 		</KS_ID>
-		<title>
-			ул. Железноводская
-		</title>
+		<title>Железноводская</title>
 		<adjacentStreet>
 			на ул. Неверова
 		</adjacentStreet>
@@ -23937,9 +23635,7 @@
 		<KS_ID>
 			350
 		</KS_ID>
-		<title>
-			ул. Тоцкая
-		</title>
+		<title>Тоцкая</title>
 		<adjacentStreet>
 			на ул. Мостовой
 		</adjacentStreet>
@@ -24006,9 +23702,7 @@
 		<KS_ID>
 			351
 		</KS_ID>
-		<title>
-			ул. Тоцкая
-		</title>
+		<title>Тоцкая</title>
 		<adjacentStreet>
 			на ул. Мостовой
 		</adjacentStreet>
@@ -24280,9 +23974,7 @@
 		<KS_ID>
 			355
 		</KS_ID>
-		<title>
-			ул. Степана Разина
-		</title>
+		<title>Степана Разина</title>
 		<adjacentStreet>
 			на ул. Комсомольской
 		</adjacentStreet>
@@ -24420,9 +24112,7 @@
 		<KS_ID>
 			357
 		</KS_ID>
-		<title>
-			ул. Заливная
-		</title>
+		<title>Заливная</title>
 		<adjacentStreet>
 			на ул. Народной
 		</adjacentStreet>
@@ -24491,9 +24181,7 @@
 		<KS_ID>
 			358
 		</KS_ID>
-		<title>
-			ул. Обувная
-		</title>
+		<title>Обувная</title>
 		<adjacentStreet>
 			на ул. Народной
 		</adjacentStreet>
@@ -24562,9 +24250,7 @@
 		<KS_ID>
 			359
 		</KS_ID>
-		<title>
-			ул. Белорусская
-		</title>
+		<title>Белорусская</title>
 		<adjacentStreet>
 			на ул. Белорусской
 		</adjacentStreet>
@@ -24633,9 +24319,7 @@
 		<KS_ID>
 			360
 		</KS_ID>
-		<title>
-			ул. Белорусская
-		</title>
+		<title>Белорусская</title>
 		<adjacentStreet>
 			на ул. Белорусской
 		</adjacentStreet>
@@ -25414,9 +25098,7 @@
 		<KS_ID>
 			371
 		</KS_ID>
-		<title>
-			ул. Сельская
-		</title>
+		<title>Сельская</title>
 		<adjacentStreet>
 			на ул. Сельской
 		</adjacentStreet>
@@ -25483,9 +25165,7 @@
 		<KS_ID>
 			372
 		</KS_ID>
-		<title>
-			ул. Сельская
-		</title>
+		<title>Сельская</title>
 		<adjacentStreet>
 			на ул. Сельской
 		</adjacentStreet>
@@ -25621,9 +25301,7 @@
 		<KS_ID>
 			374
 		</KS_ID>
-		<title>
-			ул. Князя Григория Засекина
-		</title>
+		<title>Князя Григория Засекина</title>
 		<adjacentStreet>
 			на ул. Георгия Засекина
 		</adjacentStreet>
@@ -26401,9 +26079,7 @@
 		<KS_ID>
 			385
 		</KS_ID>
-		<title>
-			ул. Молодежная
-		</title>
+		<title>Молодежная</title>
 		<adjacentStreet>
 			на ул. Молодёжной
 		</adjacentStreet>
@@ -26542,9 +26218,7 @@
 		<KS_ID>
 			387
 		</KS_ID>
-		<title>
-			ул. Георгия Димитрова
-		</title>
+		<title>Георгия Димитрова</title>
 		<adjacentStreet>
 			на ул. Демократической
 		</adjacentStreet>
@@ -26613,9 +26287,7 @@
 		<KS_ID>
 			388
 		</KS_ID>
-		<title>
-			ул. Георгия Димитрова
-		</title>
+		<title>Георгия Димитрова</title>
 		<adjacentStreet>
 			на ул. Георгия Димитрова
 		</adjacentStreet>
@@ -26683,9 +26355,7 @@
 		<KS_ID>
 			389
 		</KS_ID>
-		<title>
-			ул. Сквозная
-		</title>
+		<title>Сквозная</title>
 		<adjacentStreet>
 			на Девятой просеке
 		</adjacentStreet>
@@ -26753,9 +26423,7 @@
 		<KS_ID>
 			390
 		</KS_ID>
-		<title>
-			ул. Сквозная
-		</title>
+		<title>Сквозная</title>
 		<adjacentStreet>
 			на Девятой просеке
 		</adjacentStreet>
@@ -27103,9 +26771,7 @@
 		<KS_ID>
 			395
 		</KS_ID>
-		<title>
-			ул. Победы
-		</title>
+		<title>Победы</title>
 		<adjacentStreet>
 			на ул. Победы
 		</adjacentStreet>
@@ -27242,9 +26908,7 @@
 		<KS_ID>
 			397
 		</KS_ID>
-		<title>
-			ул. Обувная
-		</title>
+		<title>Обувная</title>
 		<adjacentStreet>
 			на ул. Обувной
 		</adjacentStreet>
@@ -27311,9 +26975,7 @@
 		<KS_ID>
 			398
 		</KS_ID>
-		<title>
-			ул. Обувная
-		</title>
+		<title>Обувная</title>
 		<adjacentStreet>
 			на ул. Обувной
 		</adjacentStreet>
@@ -28210,9 +27872,7 @@
 		<KS_ID>
 			411
 		</KS_ID>
-		<title>
-			ул. Уральская
-		</title>
+		<title>Уральская</title>
 		<adjacentStreet>
 			на ул. Уральской
 		</adjacentStreet>
@@ -28281,9 +27941,7 @@
 		<KS_ID>
 			412
 		</KS_ID>
-		<title>
-			ул. Уральская
-		</title>
+		<title>Уральская</title>
 		<adjacentStreet>
 			на ул. Уральской
 		</adjacentStreet>
@@ -28352,9 +28010,7 @@
 		<KS_ID>
 			413
 		</KS_ID>
-		<title>
-			ул. Омская
-		</title>
+		<title>Омская</title>
 		<adjacentStreet>
 			на ул. Уральской
 		</adjacentStreet>
@@ -28423,9 +28079,7 @@
 		<KS_ID>
 			414
 		</KS_ID>
-		<title>
-			ул. Омская
-		</title>
+		<title>Омская</title>
 		<adjacentStreet>
 			на ул. Уральской
 		</adjacentStreet>
@@ -29064,9 +28718,7 @@
 		<KS_ID>
 			423
 		</KS_ID>
-		<title>
-			ул. Балаковская
-		</title>
+		<title>Балаковская</title>
 		<adjacentStreet>
 			на ул. Авроры
 		</adjacentStreet>
@@ -29203,9 +28855,7 @@
 		<KS_ID>
 			425
 		</KS_ID>
-		<title>
-			ул. Бакинская
-		</title>
+		<title>Бакинская</title>
 		<adjacentStreet>
 			на Пугачевском тракте
 		</adjacentStreet>
@@ -29275,9 +28925,7 @@
 		<KS_ID>
 			426
 		</KS_ID>
-		<title>
-			ул. Егорова
-		</title>
+		<title>Егорова</title>
 		<adjacentStreet>
 			на ул. Калининградской
 		</adjacentStreet>
@@ -29342,9 +28990,7 @@
 		<KS_ID>
 			427
 		</KS_ID>
-		<title>
-			ул. Егорова
-		</title>
+		<title>Егорова</title>
 		<adjacentStreet>
 			на Пугачевском тракте
 		</adjacentStreet>
@@ -29414,9 +29060,7 @@
 		<KS_ID>
 			428
 		</KS_ID>
-		<title>
-			ул. Грозненская
-		</title>
+		<title>Грозненская</title>
 		<adjacentStreet>
 			на Пугачевском тракте
 		</adjacentStreet>
@@ -29486,9 +29130,7 @@
 		<KS_ID>
 			429
 		</KS_ID>
-		<title>
-			ул. 40 лет Пионерии
-		</title>
+		<title>40 лет Пионерии</title>
 		<adjacentStreet>
 			на ул. Грозненской
 		</adjacentStreet>
@@ -29556,9 +29198,7 @@
 		<KS_ID>
 			430
 		</KS_ID>
-		<title>
-			ул. 40 лет Пионерии
-		</title>
+		<title>40 лет Пионерии</title>
 		<adjacentStreet>
 			на ул. Грозненской
 		</adjacentStreet>
@@ -29627,9 +29267,7 @@
 		<KS_ID>
 			431
 		</KS_ID>
-		<title>
-			ул. Фасадная
-		</title>
+		<title>Фасадная</title>
 		<adjacentStreet>
 			на ул. Грозненской
 		</adjacentStreet>
@@ -29973,9 +29611,7 @@
 		<KS_ID>
 			436
 		</KS_ID>
-		<title>
-			ул. Снежная
-		</title>
+		<title>Снежная</title>
 		<adjacentStreet>
 			на ул. Таганской
 		</adjacentStreet>
@@ -30042,9 +29678,7 @@
 		<KS_ID>
 			437
 		</KS_ID>
-		<title>
-			ул. Снежная
-		</title>
+		<title>Снежная</title>
 		<adjacentStreet>
 			на ул. Таганской
 		</adjacentStreet>
@@ -31429,9 +31063,7 @@
 		<KS_ID>
 			457
 		</KS_ID>
-		<title>
-			ул. Калининградская
-		</title>
+		<title>Калининградская</title>
 		<adjacentStreet>
 			на ул. Бакинской
 		</adjacentStreet>
@@ -31572,9 +31204,7 @@
 		<KS_ID>
 			459
 		</KS_ID>
-		<title>
-			ул. Калининградская
-		</title>
+		<title>Калининградская</title>
 		<adjacentStreet>
 			на ул. Калининградской
 		</adjacentStreet>
@@ -32267,9 +31897,7 @@
 		<KS_ID>
 			469
 		</KS_ID>
-		<title>
-			ул. Дорожная
-		</title>
+		<title>Дорожная</title>
 		<adjacentStreet>
 			на ул. Утевской
 		</adjacentStreet>
@@ -32336,9 +31964,7 @@
 		<KS_ID>
 			470
 		</KS_ID>
-		<title>
-			ул. Дорожная
-		</title>
+		<title>Дорожная</title>
 		<adjacentStreet>
 			на ул. Утевской
 		</adjacentStreet>
@@ -35104,9 +34730,7 @@
 		<KS_ID>
 			513
 		</KS_ID>
-		<title>
-			ул. Магистральная
-		</title>
+		<title>Магистральная</title>
 		<adjacentStreet>
 			на Зубчаниновском шоссе
 		</adjacentStreet>
@@ -35245,9 +34869,7 @@
 		<KS_ID>
 			515
 		</KS_ID>
-		<title>
-			ул. Офицерская
-		</title>
+		<title>Офицерская</title>
 		<adjacentStreet>
 			на Зубчаниновском шоссе
 		</adjacentStreet>
@@ -35315,9 +34937,7 @@
 		<KS_ID>
 			516
 		</KS_ID>
-		<title>
-			ул. Краснопресненская
-		</title>
+		<title>Краснопресненская</title>
 		<adjacentStreet>
 			на Зубчаниновском шоссе
 		</adjacentStreet>
@@ -35385,9 +35005,7 @@
 		<KS_ID>
 			517
 		</KS_ID>
-		<title>
-			ул. Транзитная
-		</title>
+		<title>Транзитная</title>
 		<adjacentStreet>
 			на ул. Транзитной
 		</adjacentStreet>
@@ -35455,9 +35073,7 @@
 		<KS_ID>
 			518
 		</KS_ID>
-		<title>
-			ул. Цеховая
-		</title>
+		<title>Цеховая</title>
 		<adjacentStreet>
 			на ул. Транзитной
 		</adjacentStreet>
@@ -35595,9 +35211,7 @@
 		<KS_ID>
 			520
 		</KS_ID>
-		<title>
-			ул. Офицерская
-		</title>
+		<title>Офицерская</title>
 		<adjacentStreet>
 			на ул. Александра Невского
 		</adjacentStreet>
@@ -35665,9 +35279,7 @@
 		<KS_ID>
 			521
 		</KS_ID>
-		<title>
-			ул. Мелекесская
-		</title>
+		<title>Мелекесская</title>
 		<adjacentStreet>
 			на ул. Александра Невского
 		</adjacentStreet>
@@ -35735,9 +35347,7 @@
 		<KS_ID>
 			522
 		</KS_ID>
-		<title>
-			ул. Чекистов
-		</title>
+		<title>Чекистов</title>
 		<adjacentStreet>
 			на ул. Магистральной
 		</adjacentStreet>
@@ -36501,9 +36111,7 @@
 		<KS_ID>
 			533
 		</KS_ID>
-		<title>
-			ул. Псковская
-		</title>
+		<title>Псковская</title>
 		<adjacentStreet>
 			на ул. Земеца
 		</adjacentStreet>
@@ -36639,9 +36247,7 @@
 		<KS_ID>
 			535
 		</KS_ID>
-		<title>
-			ул. Псковская
-		</title>
+		<title>Псковская</title>
 		<adjacentStreet>
 			на ул. Земеца
 		</adjacentStreet>
@@ -36919,9 +36525,7 @@
 		<KS_ID>
 			539
 		</KS_ID>
-		<title>
-			ул. Алма-Атинская
-		</title>
+		<title>Алма-Атинская</title>
 		<adjacentStreet>
 			на ул. Алма-Атинской
 		</adjacentStreet>
@@ -36990,9 +36594,7 @@
 		<KS_ID>
 			540
 		</KS_ID>
-		<title>
-			ул. Алма-Атинская
-		</title>
+		<title>Алма-Атинская</title>
 		<adjacentStreet>
 			на ул. Алма-Атинской
 		</adjacentStreet>
@@ -37132,9 +36734,7 @@
 		<KS_ID>
 			542
 		</KS_ID>
-		<title>
-			ул. Свободы
-		</title>
+		<title>Свободы</title>
 		<adjacentStreet>
 			на ул. Елизарова
 		</adjacentStreet>
@@ -37201,9 +36801,7 @@
 		<KS_ID>
 			543
 		</KS_ID>
-		<title>
-			ул. Ставропольская
-		</title>
+		<title>Ставропольская</title>
 		<adjacentStreet>
 			на ул. Советской
 		</adjacentStreet>
@@ -37410,9 +37008,7 @@
 		<KS_ID>
 			546
 		</KS_ID>
-		<title>
-			ул. Калинина
-		</title>
+		<title>Калинина</title>
 		<adjacentStreet>
 			на ул. Вольской
 		</adjacentStreet>
@@ -37966,9 +37562,7 @@
 		<KS_ID>
 			554
 		</KS_ID>
-		<title>
-			ул. Призаводская
-		</title>
+		<title>Призаводская</title>
 		<adjacentStreet>
 			на ул. Прожекторной
 		</adjacentStreet>
@@ -38035,9 +37629,7 @@
 		<KS_ID>
 			555
 		</KS_ID>
-		<title>
-			ул. Призаводская
-		</title>
+		<title>Призаводская</title>
 		<adjacentStreet>
 			на ул. Прожекторной
 		</adjacentStreet>
@@ -38381,9 +37973,7 @@
 		<KS_ID>
 			560
 		</KS_ID>
-		<title>
-			ул. Ташкентская
-		</title>
+		<title>Ташкентская</title>
 		<adjacentStreet>
 			на ул. Ташкентской
 		</adjacentStreet>
@@ -38521,9 +38111,7 @@
 		<KS_ID>
 			562
 		</KS_ID>
-		<title>
-			ул. Мориса Тореза
-		</title>
+		<title>Мориса Тореза</title>
 		<adjacentStreet>
 			на ул. Авроры
 		</adjacentStreet>
@@ -38592,9 +38180,7 @@
 		<KS_ID>
 			563
 		</KS_ID>
-		<title>
-			ул. Авроры
-		</title>
+		<title>Авроры</title>
 		<adjacentStreet>
 			на ул. Мориса Тореза
 		</adjacentStreet>
@@ -38661,9 +38247,7 @@
 		<KS_ID>
 			564
 		</KS_ID>
-		<title>
-			ул. Юрия Гагарина
-		</title>
+		<title>Юрия Гагарина</title>
 		<adjacentStreet>
 			на ул. Авроры
 		</adjacentStreet>
@@ -38732,9 +38316,7 @@
 		<KS_ID>
 			565
 		</KS_ID>
-		<title>
-			ул. Юрия Гагарина
-		</title>
+		<title>Юрия Гагарина</title>
 		<adjacentStreet>
 			на ул. Авроры
 		</adjacentStreet>
@@ -38803,9 +38385,7 @@
 		<KS_ID>
 			566
 		</KS_ID>
-		<title>
-			ул. Дыбенко
-		</title>
+		<title>Дыбенко</title>
 		<adjacentStreet>
 			на ул. Авроры
 		</adjacentStreet>
@@ -38874,9 +38454,7 @@
 		<KS_ID>
 			567
 		</KS_ID>
-		<title>
-			ул. Дыбенко
-		</title>
+		<title>Дыбенко</title>
 		<adjacentStreet>
 			на ул. Авроры
 		</adjacentStreet>
@@ -38945,9 +38523,7 @@
 		<KS_ID>
 			568
 		</KS_ID>
-		<title>
-			ул. Антонова-Овсеенко
-		</title>
+		<title>Антонова-Овсеенко</title>
 		<adjacentStreet>
 			на ул. Авроры
 		</adjacentStreet>
@@ -39016,9 +38592,7 @@
 		<KS_ID>
 			569
 		</KS_ID>
-		<title>
-			ул. Антонова-Овсеенко
-		</title>
+		<title>Антонова-Овсеенко</title>
 		<adjacentStreet>
 			на ул. Авроры
 		</adjacentStreet>
@@ -39581,9 +39155,7 @@
 		<KS_ID>
 			577
 		</KS_ID>
-		<title>
-			ул. Тухачевского
-		</title>
+		<title>Тухачевского</title>
 		<adjacentStreet>
 			на ул. Тухачевского
 		</adjacentStreet>
@@ -40002,9 +39574,7 @@
 		<KS_ID>
 			583
 		</KS_ID>
-		<title>
-			ул. Ульяновская
-		</title>
+		<title>Ульяновская</title>
 		<adjacentStreet>
 			на ул. Молодогвардейской
 		</adjacentStreet>
@@ -40142,9 +39712,7 @@
 		<KS_ID>
 			585
 		</KS_ID>
-		<title>
-			ул. Ульяновская
-		</title>
+		<title>Ульяновская</title>
 		<adjacentStreet>
 			на ул. Молодогвардейской
 		</adjacentStreet>
@@ -40492,9 +40060,7 @@
 		<KS_ID>
 			590
 		</KS_ID>
-		<title>
-			ул. Офицерская
-		</title>
+		<title>Офицерская</title>
 		<adjacentStreet>
 			на Зубчаниновском шоссе
 		</adjacentStreet>
@@ -40562,9 +40128,7 @@
 		<KS_ID>
 			591
 		</KS_ID>
-		<title>
-			ул. Краснопресненская
-		</title>
+		<title>Краснопресненская</title>
 		<adjacentStreet>
 			на Зубчаниновском шоссе
 		</adjacentStreet>
@@ -40632,9 +40196,7 @@
 		<KS_ID>
 			592
 		</KS_ID>
-		<title>
-			ул. Транзитная
-		</title>
+		<title>Транзитная</title>
 		<adjacentStreet>
 			на Аэропортовском шоссе
 		</adjacentStreet>
@@ -40702,9 +40264,7 @@
 		<KS_ID>
 			593
 		</KS_ID>
-		<title>
-			ул. Цеховая
-		</title>
+		<title>Цеховая</title>
 		<adjacentStreet>
 			на ул. Транзитной
 		</adjacentStreet>
@@ -41052,9 +40612,7 @@
 		<KS_ID>
 			598
 		</KS_ID>
-		<title>
-			ул. Чекистов
-		</title>
+		<title>Чекистов</title>
 		<adjacentStreet>
 			на ул. Магистральной
 		</adjacentStreet>
@@ -41122,9 +40680,7 @@
 		<KS_ID>
 			599
 		</KS_ID>
-		<title>
-			ул. Мелекесская
-		</title>
+		<title>Мелекесская</title>
 		<adjacentStreet>
 			на ул. Александра Невского
 		</adjacentStreet>
@@ -41192,9 +40748,7 @@
 		<KS_ID>
 			600
 		</KS_ID>
-		<title>
-			ул. Офицерская
-		</title>
+		<title>Офицерская</title>
 		<adjacentStreet>
 			на ул. Александра Невского
 		</adjacentStreet>
@@ -41614,9 +41168,7 @@
 		<KS_ID>
 			606
 		</KS_ID>
-		<title>
-			ул. Победы
-		</title>
+		<title>Победы</title>
 		<adjacentStreet>
 			на ул. Победы
 		</adjacentStreet>
@@ -41685,9 +41237,7 @@
 		<KS_ID>
 			607
 		</KS_ID>
-		<title>
-			ул. Юрия Гагарина
-		</title>
+		<title>Юрия Гагарина</title>
 		<adjacentStreet>
 			на ул. Победы
 		</adjacentStreet>
@@ -41898,9 +41448,7 @@
 		<KS_ID>
 			610
 		</KS_ID>
-		<title>
-			ул. Советской Армии
-		</title>
+		<title>Советской Армии</title>
 		<adjacentStreet>
 			на ул. Гагарина
 		</adjacentStreet>
@@ -41969,9 +41517,7 @@
 		<KS_ID>
 			611
 		</KS_ID>
-		<title>
-			ул. Советской Армии
-		</title>
+		<title>Советской Армии</title>
 		<adjacentStreet>
 			на ул. Гагарина
 		</adjacentStreet>
@@ -42040,9 +41586,7 @@
 		<KS_ID>
 			612
 		</KS_ID>
-		<title>
-			ул. Карбышева
-		</title>
+		<title>Карбышева</title>
 		<adjacentStreet>
 			на ул. Гагарина
 		</adjacentStreet>
@@ -42111,9 +41655,7 @@
 		<KS_ID>
 			613
 		</KS_ID>
-		<title>
-			ул. Карбышева
-		</title>
+		<title>Карбышева</title>
 		<adjacentStreet>
 			на ул. Гагарина
 		</adjacentStreet>
@@ -42324,9 +41866,7 @@
 		<KS_ID>
 			616
 		</KS_ID>
-		<title>
-			ул. Авроры
-		</title>
+		<title>Авроры</title>
 		<adjacentStreet>
 			на ул. Гагарина
 		</adjacentStreet>
@@ -42395,9 +41935,7 @@
 		<KS_ID>
 			617
 		</KS_ID>
-		<title>
-			ул. Авроры
-		</title>
+		<title>Авроры</title>
 		<adjacentStreet>
 			на ул. Гагарина
 		</adjacentStreet>
@@ -42462,9 +42000,7 @@
 		<KS_ID>
 			618
 		</KS_ID>
-		<title>
-			ул. Революционная
-		</title>
+		<title>Революционная</title>
 		<adjacentStreet>
 			на ул. Гагарина
 		</adjacentStreet>
@@ -42533,9 +42069,7 @@
 		<KS_ID>
 			619
 		</KS_ID>
-		<title>
-			ул. Революционная
-		</title>
+		<title>Революционная</title>
 		<adjacentStreet>
 			на ул. Гагарина
 		</adjacentStreet>
@@ -42813,9 +42347,7 @@
 		<KS_ID>
 			623
 		</KS_ID>
-		<title>
-			ул. Ново-Садовая
-		</title>
+		<title>Ново-Садовая</title>
 		<adjacentStreet>
 			на ул. Советской Армии
 		</adjacentStreet>
@@ -43376,9 +42908,7 @@
 		<KS_ID>
 			631
 		</KS_ID>
-		<title>
-			ул. Молодогвардейская
-		</title>
+		<title>Молодогвардейская</title>
 		<adjacentStreet>
 			на ул. Льва Толстого
 		</adjacentStreet>
@@ -43448,9 +42978,7 @@
 		<KS_ID>
 			632
 		</KS_ID>
-		<title>
-			ул. Молодогвардейская
-		</title>
+		<title>Молодогвардейская</title>
 		<adjacentStreet>
 			на ул. Льва Толстого
 		</adjacentStreet>
@@ -43662,9 +43190,7 @@
 		<KS_ID>
 			635
 		</KS_ID>
-		<title>
-			ул. Стара-Загора
-		</title>
+		<title>Стара-Загора</title>
 		<adjacentStreet>
 			на ул. Двадцать Второго Партсъезда
 		</adjacentStreet>
@@ -43800,9 +43326,7 @@
 		<KS_ID>
 			637
 		</KS_ID>
-		<title>
-			ул. Партизанская
-		</title>
+		<title>Партизанская</title>
 		<adjacentStreet>
 			на ул. Авроры
 		</adjacentStreet>
@@ -43871,9 +43395,7 @@
 		<KS_ID>
 			638
 		</KS_ID>
-		<title>
-			ул. Партизанская
-		</title>
+		<title>Партизанская</title>
 		<adjacentStreet>
 			на ул. Авроры
 		</adjacentStreet>
@@ -43942,9 +43464,7 @@
 		<KS_ID>
 			639
 		</KS_ID>
-		<title>
-			ул. Тухачевского
-		</title>
+		<title>Тухачевского</title>
 		<adjacentStreet>
 			на ул. Тухачевского
 		</adjacentStreet>
@@ -44013,9 +43533,7 @@
 		<KS_ID>
 			641
 		</KS_ID>
-		<title>
-			ул. Самарская
-		</title>
+		<title>Самарская</title>
 		<adjacentStreet>
 			на ул. Самарской
 		</adjacentStreet>
@@ -44083,9 +43601,7 @@
 		<KS_ID>
 			643
 		</KS_ID>
-		<title>
-			ул. Николая Панова
-		</title>
+		<title>Николая Панова</title>
 		<adjacentStreet>
 			на ул. Ново-Садовой
 		</adjacentStreet>
@@ -44927,9 +44443,7 @@
 		<KS_ID>
 			655
 		</KS_ID>
-		<title>
-			ул. Аминева
-		</title>
+		<title>Аминева</title>
 		<adjacentStreet>
 			на ул. Ново-Садовой
 		</adjacentStreet>
@@ -45283,9 +44797,7 @@
 		<KS_ID>
 			660
 		</KS_ID>
-		<title>
-			ул. Демократическая
-		</title>
+		<title>Демократическая</title>
 		<adjacentStreet>
 			на ул. Демократической
 		</adjacentStreet>
@@ -46195,9 +45707,7 @@
 		<KS_ID>
 			673
 		</KS_ID>
-		<title>
-			ул. Георгия Димитрова
-		</title>
+		<title>Георгия Димитрова</title>
 		<adjacentStreet>
 			на Московском шоссе
 		</adjacentStreet>
@@ -46266,9 +45776,7 @@
 		<KS_ID>
 			674
 		</KS_ID>
-		<title>
-			ул. Партизанская
-		</title>
+		<title>Партизанская</title>
 		<adjacentStreet>
 			на ул. Промышленности
 		</adjacentStreet>
@@ -46335,9 +45843,7 @@
 		<KS_ID>
 			675
 		</KS_ID>
-		<title>
-			ул. Каменногорская
-		</title>
+		<title>Каменногорская</title>
 		<adjacentStreet>
 			на ул. Промышленности
 		</adjacentStreet>
@@ -46542,9 +46048,7 @@
 		<KS_ID>
 			678
 		</KS_ID>
-		<title>
-			ул. Пятигорская
-		</title>
+		<title>Пятигорская</title>
 		<adjacentStreet>
 			на ул. Пятигорской
 		</adjacentStreet>
@@ -46611,9 +46115,7 @@
 		<KS_ID>
 			679
 		</KS_ID>
-		<title>
-			ул. Пятигорская
-		</title>
+		<title>Пятигорская</title>
 		<adjacentStreet>
 			на ул. Пятигорской
 		</adjacentStreet>
@@ -46680,9 +46182,7 @@
 		<KS_ID>
 			680
 		</KS_ID>
-		<title>
-			ул. Горная
-		</title>
+		<title>Горная</title>
 		<adjacentStreet>
 			на ул. Новоурицкой
 		</adjacentStreet>
@@ -47025,9 +46525,7 @@
 		<KS_ID>
 			685
 		</KS_ID>
-		<title>
-			ул. Уфимская
-		</title>
+		<title>Уфимская</title>
 		<adjacentStreet>
 			на ул. Промышленности
 		</adjacentStreet>
@@ -47094,9 +46592,7 @@
 		<KS_ID>
 			686
 		</KS_ID>
-		<title>
-			ул. Луганская
-		</title>
+		<title>Луганская</title>
 		<adjacentStreet>
 			на ул. Промышленности
 		</adjacentStreet>
@@ -47232,9 +46728,7 @@
 		<KS_ID>
 			688
 		</KS_ID>
-		<title>
-			ул. Авроры
-		</title>
+		<title>Авроры</title>
 		<adjacentStreet>
 			на ул. Промышленности
 		</adjacentStreet>
@@ -47301,9 +46795,7 @@
 		<KS_ID>
 			689
 		</KS_ID>
-		<title>
-			ул. Каменногорская
-		</title>
+		<title>Каменногорская</title>
 		<adjacentStreet>
 			на ул. Промышленности
 		</adjacentStreet>
@@ -47370,9 +46862,7 @@
 		<KS_ID>
 			690
 		</KS_ID>
-		<title>
-			ул. Витебская
-		</title>
+		<title>Витебская</title>
 		<adjacentStreet>
 			на ул. Промышленности
 		</adjacentStreet>
@@ -47439,9 +46929,7 @@
 		<KS_ID>
 			691
 		</KS_ID>
-		<title>
-			ул. Партизанская
-		</title>
+		<title>Партизанская</title>
 		<adjacentStreet>
 			на ул. Промышленности
 		</adjacentStreet>
@@ -47716,9 +47204,7 @@
 		<KS_ID>
 			695
 		</KS_ID>
-		<title>
-			ул. Фадеева
-		</title>
+		<title>Фадеева</title>
 		<adjacentStreet>
 			на ул. Ново-Вокзальной
 		</adjacentStreet>
@@ -47788,9 +47274,7 @@
 		<KS_ID>
 			696
 		</KS_ID>
-		<title>
-			ул. Ново-Вокзальная
-		</title>
+		<title>Ново-Вокзальная</title>
 		<adjacentStreet>
 			на ул. Ставропольской
 		</adjacentStreet>
@@ -47929,9 +47413,7 @@
 		<KS_ID>
 			698
 		</KS_ID>
-		<title>
-			ул. Зои Космодемьянской
-		</title>
+		<title>Зои Космодемьянской</title>
 		<adjacentStreet>
 			на ул. Зои Космодемьянской
 		</adjacentStreet>
@@ -48624,9 +48106,7 @@
 		<KS_ID>
 			708
 		</KS_ID>
-		<title>
-			ул. Транзитная
-		</title>
+		<title>Транзитная</title>
 		<adjacentStreet>
 			на Аэропортовском шоссе
 		</adjacentStreet>
@@ -48695,9 +48175,7 @@
 		<KS_ID>
 			709
 		</KS_ID>
-		<title>
-			ул. Орловская
-		</title>
+		<title>Орловская</title>
 		<adjacentStreet>
 			на Аэропортовском шоссе
 		</adjacentStreet>
@@ -48765,9 +48243,7 @@
 		<KS_ID>
 			710
 		</KS_ID>
-		<title>
-			ул. Орловская
-		</title>
+		<title>Орловская</title>
 		<adjacentStreet>
 			на Аэропортовском шоссе
 		</adjacentStreet>
@@ -48835,9 +48311,7 @@
 		<KS_ID>
 			711
 		</KS_ID>
-		<title>
-			ул. Грибоедова
-		</title>
+		<title>Грибоедова</title>
 		<adjacentStreet>
 			на Аэропортовском шоссе
 		</adjacentStreet>
@@ -48905,9 +48379,7 @@
 		<KS_ID>
 			712
 		</KS_ID>
-		<title>
-			ул. Грибоедова
-		</title>
+		<title>Грибоедова</title>
 		<adjacentStreet>
 			на Аэропортовском шоссе
 		</adjacentStreet>
@@ -49182,9 +48654,7 @@
 		<KS_ID>
 			716
 		</KS_ID>
-		<title>
-			ул. Софьи Перовской
-		</title>
+		<title>Софьи Перовской</title>
 		<adjacentStreet>
 			на ул. Чекистов
 		</adjacentStreet>
@@ -49251,9 +48721,7 @@
 		<KS_ID>
 			717
 		</KS_ID>
-		<title>
-			ул. Софьи Перовской
-		</title>
+		<title>Софьи Перовской</title>
 		<adjacentStreet>
 			на ул. Чекистов
 		</adjacentStreet>
@@ -49318,9 +48786,7 @@
 		<KS_ID>
 			718
 		</KS_ID>
-		<title>
-			ул. Магистральная
-		</title>
+		<title>Магистральная</title>
 		<adjacentStreet>
 			на ул. Магистральной
 		</adjacentStreet>
@@ -49388,9 +48854,7 @@
 		<KS_ID>
 			719
 		</KS_ID>
-		<title>
-			ул. Александра Невского
-		</title>
+		<title>Александра Невского</title>
 		<adjacentStreet>
 			на ул. Магистральной
 		</adjacentStreet>
@@ -49598,9 +49062,7 @@
 		<KS_ID>
 			722
 		</KS_ID>
-		<title>
-			ул. Тополей
-		</title>
+		<title>Тополей</title>
 		<adjacentStreet>
 			на ул. Георгия Димитрова
 		</adjacentStreet>
@@ -49669,9 +49131,7 @@
 		<KS_ID>
 			723
 		</KS_ID>
-		<title>
-			ул. Тополей
-		</title>
+		<title>Тополей</title>
 		<adjacentStreet>
 			на ул. Георгия Димитрова
 		</adjacentStreet>
@@ -49740,9 +49200,7 @@
 		<KS_ID>
 			724
 		</KS_ID>
-		<title>
-			ул. Демократическая
-		</title>
+		<title>Демократическая</title>
 		<adjacentStreet>
 			на ул. Георгия Димитрова
 		</adjacentStreet>
@@ -49811,9 +49269,7 @@
 		<KS_ID>
 			725
 		</KS_ID>
-		<title>
-			ул. Соколова
-		</title>
+		<title>Соколова</title>
 		<adjacentStreet>
 			на ул. Соколова
 		</adjacentStreet>
@@ -49951,9 +49407,7 @@
 		<KS_ID>
 			727
 		</KS_ID>
-		<title>
-			ул. Осипенко
-		</title>
+		<title>Осипенко</title>
 		<adjacentStreet>
 			на Волжском проспекте
 		</adjacentStreet>
@@ -50021,9 +49475,7 @@
 		<KS_ID>
 			728
 		</KS_ID>
-		<title>
-			ул. Первомайская
-		</title>
+		<title>Первомайская</title>
 		<adjacentStreet>
 			на Волжском проспекте
 		</adjacentStreet>
@@ -50441,9 +49893,7 @@
 		<KS_ID>
 			734
 		</KS_ID>
-		<title>
-			ул. Соколова
-		</title>
+		<title>Соколова</title>
 		<adjacentStreet>
 			на ул. Соколова
 		</adjacentStreet>
@@ -50511,9 +49961,7 @@
 		<KS_ID>
 			735
 		</KS_ID>
-		<title>
-			ул. Гастелло
-		</title>
+		<title>Гастелло</title>
 		<adjacentStreet>
 			на ул. Ново-Садовой
 		</adjacentStreet>
@@ -50791,9 +50239,7 @@
 		<KS_ID>
 			739
 		</KS_ID>
-		<title>
-			ул. Демократическая
-		</title>
+		<title>Демократическая</title>
 		<adjacentStreet>
 			на ул. Георгия Димитрова
 		</adjacentStreet>
@@ -51007,9 +50453,7 @@
 		<KS_ID>
 			742
 		</KS_ID>
-		<title>
-			ул. Пионерская
-		</title>
+		<title>Пионерская</title>
 		<adjacentStreet>
 			на ул. Фрунзе
 		</adjacentStreet>
@@ -51076,9 +50520,7 @@
 		<KS_ID>
 			743
 		</KS_ID>
-		<title>
-			ул. Венцека
-		</title>
+		<title>Венцека</title>
 		<adjacentStreet>
 			на ул. Фрунзе
 		</adjacentStreet>
@@ -51145,9 +50587,7 @@
 		<KS_ID>
 			744
 		</KS_ID>
-		<title>
-			ул. Галактионовская
-		</title>
+		<title>Галактионовская</title>
 		<adjacentStreet>
 			на ул. Венцека
 		</adjacentStreet>
@@ -51212,9 +50652,7 @@
 		<KS_ID>
 			745
 		</KS_ID>
-		<title>
-			ул. Некрасовская
-		</title>
+		<title>Некрасовская</title>
 		<adjacentStreet>
 			на ул. Галактионовской
 		</adjacentStreet>
@@ -51282,9 +50720,7 @@
 		<KS_ID>
 			746
 		</KS_ID>
-		<title>
-			ул. Галактионовская
-		</title>
+		<title>Галактионовская</title>
 		<adjacentStreet>
 			на ул. Красноармейской
 		</adjacentStreet>
@@ -51423,9 +50859,7 @@
 		<KS_ID>
 			748
 		</KS_ID>
-		<title>
-			ул. Красноармейская
-		</title>
+		<title>Красноармейская</title>
 		<adjacentStreet>
 			на ул. Красноармейской
 		</adjacentStreet>
@@ -51567,9 +51001,7 @@
 		<KS_ID>
 			751
 		</KS_ID>
-		<title>
-			ул. Пензенская
-		</title>
+		<title>Пензенская</title>
 		<adjacentStreet>
 			на ул. Пензенской
 		</adjacentStreet>
@@ -51639,9 +51071,7 @@
 		<KS_ID>
 			752
 		</KS_ID>
-		<title>
-			ул. Тухачевского
-		</title>
+		<title>Тухачевского</title>
 		<adjacentStreet>
 			на ул. Партизанской
 		</adjacentStreet>
@@ -51782,9 +51212,7 @@
 		<KS_ID>
 			754
 		</KS_ID>
-		<title>
-			ул. Волгина
-		</title>
+		<title>Волгина</title>
 		<adjacentStreet>
 			на ул. Аэродромной
 		</adjacentStreet>
@@ -51854,9 +51282,7 @@
 		<KS_ID>
 			755
 		</KS_ID>
-		<title>
-			ул. Дзержинского
-		</title>
+		<title>Дзержинского</title>
 		<adjacentStreet>
 			на ул. Аэродромной
 		</adjacentStreet>
@@ -52199,9 +51625,7 @@
 		<KS_ID>
 			760
 		</KS_ID>
-		<title>
-			ул. XXII Партсъезда
-		</title>
+		<title>XXII Партсъезда</title>
 		<adjacentStreet>
 			на ул. Гагарина
 		</adjacentStreet>
@@ -52339,9 +51763,7 @@
 		<KS_ID>
 			762
 		</KS_ID>
-		<title>
-			ул. Юрия Гагарина
-		</title>
+		<title>Юрия Гагарина</title>
 		<adjacentStreet>
 			на ул. Промышленности
 		</adjacentStreet>
@@ -52410,9 +51832,7 @@
 		<KS_ID>
 			763
 		</KS_ID>
-		<title>
-			ул. Советской Армии
-		</title>
+		<title>Советской Армии</title>
 		<adjacentStreet>
 			на ул. Промышленности
 		</adjacentStreet>
@@ -52479,9 +51899,7 @@
 		<KS_ID>
 			764
 		</KS_ID>
-		<title>
-			ул. Аэродромная
-		</title>
+		<title>Аэродромная</title>
 		<adjacentStreet>
 			на ул. Аэродромной
 		</adjacentStreet>
@@ -52692,9 +52110,7 @@
 		<KS_ID>
 			767
 		</KS_ID>
-		<title>
-			ул. Пролетарская
-		</title>
+		<title>Пролетарская</title>
 		<adjacentStreet>
 			на ул. Киевской
 		</adjacentStreet>
@@ -52830,9 +52246,7 @@
 		<KS_ID>
 			769
 		</KS_ID>
-		<title>
-			ул. Клиническая
-		</title>
+		<title>Клиническая</title>
 		<adjacentStreet>
 			на ул. Клинической
 		</adjacentStreet>
@@ -52970,9 +52384,7 @@
 		<KS_ID>
 			771
 		</KS_ID>
-		<title>
-			ул. Арцыбушевская
-		</title>
+		<title>Арцыбушевская</title>
 		<adjacentStreet>
 			на ул. Полевой
 		</adjacentStreet>
@@ -53041,9 +52453,7 @@
 		<KS_ID>
 			772
 		</KS_ID>
-		<title>
-			ул. Ульяновская
-		</title>
+		<title>Ульяновская</title>
 		<adjacentStreet>
 			на ул. Арцыбушевской
 		</adjacentStreet>
@@ -53181,9 +52591,7 @@
 		<KS_ID>
 			774
 		</KS_ID>
-		<title>
-			ул. Фрунзе
-		</title>
+		<title>Фрунзе</title>
 		<adjacentStreet>
 			на ул. Красноармейской
 		</adjacentStreet>
@@ -53251,9 +52659,7 @@
 		<KS_ID>
 			776
 		</KS_ID>
-		<title>
-			ул. Ленинградская
-		</title>
+		<title>Ленинградская</title>
 		<adjacentStreet>
 			на ул. Фрунзе
 		</adjacentStreet>
@@ -53322,9 +52728,7 @@
 		<KS_ID>
 			777
 		</KS_ID>
-		<title>
-			ул. Венцека
-		</title>
+		<title>Венцека</title>
 		<adjacentStreet>
 			на ул. Фрунзе
 		</adjacentStreet>
@@ -53392,9 +52796,7 @@
 		<KS_ID>
 			778
 		</KS_ID>
-		<title>
-			ул. Льва Толстого
-		</title>
+		<title>Льва Толстого</title>
 		<adjacentStreet>
 			на ул. Галактионовской
 		</adjacentStreet>
@@ -53670,9 +53072,7 @@
 		<KS_ID>
 			783
 		</KS_ID>
-		<title>
-			ул. Челюскинцев
-		</title>
+		<title>Челюскинцев</title>
 		<adjacentStreet>
 			на пр. Ленина
 		</adjacentStreet>
@@ -53741,9 +53141,7 @@
 		<KS_ID>
 			784
 		</KS_ID>
-		<title>
-			ул. Полевая
-		</title>
+		<title>Полевая</title>
 		<adjacentStreet>
 			на пр. Ленина
 		</adjacentStreet>
@@ -53810,9 +53208,7 @@
 		<KS_ID>
 			785
 		</KS_ID>
-		<title>
-			ул. Полевая
-		</title>
+		<title>Полевая</title>
 		<adjacentStreet>
 			на ул. Галактионовской
 		</adjacentStreet>
@@ -53951,9 +53347,7 @@
 		<KS_ID>
 			787
 		</KS_ID>
-		<title>
-			ул. Красноармейская
-		</title>
+		<title>Красноармейская</title>
 		<adjacentStreet>
 			на ул. Галактионовской
 		</adjacentStreet>
@@ -54020,9 +53414,7 @@
 		<KS_ID>
 			788
 		</KS_ID>
-		<title>
-			ул. Вилоновская
-		</title>
+		<title>Вилоновская</title>
 		<adjacentStreet>
 			на ул. Галактионовской
 		</adjacentStreet>
@@ -54160,9 +53552,7 @@
 		<KS_ID>
 			790
 		</KS_ID>
-		<title>
-			ул. Тухачевского
-		</title>
+		<title>Тухачевского</title>
 		<adjacentStreet>
 			на ул. Тухачевского
 		</adjacentStreet>
@@ -54229,9 +53619,7 @@
 		<KS_ID>
 			791
 		</KS_ID>
-		<title>
-			ул. Чапаевская
-		</title>
+		<title>Чапаевская</title>
 		<adjacentStreet>
 			на ул. Венцека
 		</adjacentStreet>
@@ -54296,9 +53684,7 @@
 		<KS_ID>
 			792
 		</KS_ID>
-		<title>
-			ул. Арцыбушевская
-		</title>
+		<title>Арцыбушевская</title>
 		<adjacentStreet>
 			на ул. Полевой
 		</adjacentStreet>
@@ -54436,9 +53822,7 @@
 		<KS_ID>
 			794
 		</KS_ID>
-		<title>
-			ул. Ташкентская
-		</title>
+		<title>Ташкентская</title>
 		<adjacentStreet>
 			на ул. Ташкентской
 		</adjacentStreet>
@@ -54645,9 +54029,7 @@
 		<KS_ID>
 			798
 		</KS_ID>
-		<title>
-			ул. Первомайская
-		</title>
+		<title>Первомайская</title>
 		<adjacentStreet>
 			на пр. Ленина
 		</adjacentStreet>
@@ -54715,9 +54097,7 @@
 		<KS_ID>
 			800
 		</KS_ID>
-		<title>
-			ул. Красных Коммунаров
-		</title>
+		<title>Красных Коммунаров</title>
 		<adjacentStreet>
 			на ул. Двадцать Второго Партсъезда
 		</adjacentStreet>
@@ -54859,9 +54239,7 @@
 		<KS_ID>
 			804
 		</KS_ID>
-		<title>
-			ул. Ставропольская
-		</title>
+		<title>Ставропольская</title>
 		<adjacentStreet>
 			на ул. Ново-Вокзальной
 		</adjacentStreet>
@@ -54931,9 +54309,7 @@
 		<KS_ID>
 			805
 		</KS_ID>
-		<title>
-			ул. Стара-Загора
-		</title>
+		<title>Стара-Загора</title>
 		<adjacentStreet>
 			на ул. Ново-Вокзальной
 		</adjacentStreet>
@@ -55289,9 +54665,7 @@
 		<KS_ID>
 			810
 		</KS_ID>
-		<title>
-			ул. Победы
-		</title>
+		<title>Победы</title>
 		<adjacentStreet>
 			на ул. Победы
 		</adjacentStreet>
@@ -55359,9 +54733,7 @@
 		<KS_ID>
 			811
 		</KS_ID>
-		<title>
-			ул. Свободы
-		</title>
+		<title>Свободы</title>
 		<adjacentStreet>
 			на ул. Алма-Атинской
 		</adjacentStreet>
@@ -55568,9 +54940,7 @@
 		<KS_ID>
 			814
 		</KS_ID>
-		<title>
-			ул. Черемшанская
-		</title>
+		<title>Черемшанская</title>
 		<adjacentStreet>
 			на ул. Советской
 		</adjacentStreet>
@@ -55637,9 +55007,7 @@
 		<KS_ID>
 			815
 		</KS_ID>
-		<title>
-			ул. Ставропольская
-		</title>
+		<title>Ставропольская</title>
 		<adjacentStreet>
 			на ул. Советской
 		</adjacentStreet>
@@ -55924,9 +55292,7 @@
 		<KS_ID>
 			820
 		</KS_ID>
-		<title>
-			ул. Водников
-		</title>
+		<title>Водников</title>
 		<adjacentStreet>
 			на ул. Водников
 		</adjacentStreet>
@@ -55995,9 +55361,7 @@
 		<KS_ID>
 			821
 		</KS_ID>
-		<title>
-			ул. Тракторная
-		</title>
+		<title>Тракторная</title>
 		<adjacentStreet>
 			на ул. Главной
 		</adjacentStreet>
@@ -56214,9 +55578,7 @@
 		<KS_ID>
 			824
 		</KS_ID>
-		<title>
-			ул. Бакинская
-		</title>
+		<title>Бакинская</title>
 		<adjacentStreet>
 			на ул. Бакинской
 		</adjacentStreet>
@@ -56286,9 +55648,7 @@
 		<KS_ID>
 			825
 		</KS_ID>
-		<title>
-			ул. Фасадная
-		</title>
+		<title>Фасадная</title>
 		<adjacentStreet>
 			на ул. Грозненской
 		</adjacentStreet>
@@ -56432,9 +55792,7 @@
 		<KS_ID>
 			827
 		</KS_ID>
-		<title>
-			ул. Некрасовская
-		</title>
+		<title>Некрасовская</title>
 		<adjacentStreet>
 			на ул. Куйбышева
 		</adjacentStreet>
@@ -56503,9 +55861,7 @@
 		<KS_ID>
 			828
 		</KS_ID>
-		<title>
-			ул. Молодогвардейская
-		</title>
+		<title>Молодогвардейская</title>
 		<adjacentStreet>
 			на ул. Некрасовской
 		</adjacentStreet>
@@ -56572,9 +55928,7 @@
 		<KS_ID>
 			829
 		</KS_ID>
-		<title>
-			ул. Ленинградская
-		</title>
+		<title>Ленинградская</title>
 		<adjacentStreet>
 			на ул. Самарской
 		</adjacentStreet>
@@ -56642,9 +55996,7 @@
 		<KS_ID>
 			830
 		</KS_ID>
-		<title>
-			ул. Ленинградская
-		</title>
+		<title>Ленинградская</title>
 		<adjacentStreet>
 			на ул. Братьев Коростелевых
 		</adjacentStreet>
@@ -56786,9 +56138,7 @@
 		<KS_ID>
 			832
 		</KS_ID>
-		<title>
-			ул. Буянова
-		</title>
+		<title>Буянова</title>
 		<adjacentStreet>
 			на ул. Льва Толстого
 		</adjacentStreet>
@@ -57148,9 +56498,7 @@
 		<KS_ID>
 			840
 		</KS_ID>
-		<title>
-			ул. Кутякова
-		</title>
+		<title>Кутякова</title>
 		<adjacentStreet>
 			на ул. Водников
 		</adjacentStreet>
@@ -57567,9 +56915,7 @@
 		<KS_ID>
 			851
 		</KS_ID>
-		<title>
-			ул. Первомайская
-		</title>
+		<title>Первомайская</title>
 		<adjacentStreet>
 			на Волжском проспекте
 		</adjacentStreet>
@@ -57847,9 +57193,7 @@
 		<KS_ID>
 			856
 		</KS_ID>
-		<title>
-			ул. Фадеева
-		</title>
+		<title>Фадеева</title>
 		<adjacentStreet>
 			на ул. Двадцать Второго Партсъезда
 		</adjacentStreet>
@@ -57989,9 +57333,7 @@
 		<KS_ID>
 			858
 		</KS_ID>
-		<title>
-			ул. Ново-Вокзальная
-		</title>
+		<title>Ново-Вокзальная</title>
 		<adjacentStreet>
 			на ул. Стара-Загора
 		</adjacentStreet>
@@ -58133,9 +57475,7 @@
 		<KS_ID>
 			860
 		</KS_ID>
-		<title>
-			ул. Воронежская
-		</title>
+		<title>Воронежская</title>
 		<adjacentStreet>
 			на ул. Стара-Загора
 		</adjacentStreet>
@@ -58490,9 +57830,7 @@
 		<KS_ID>
 			867
 		</KS_ID>
-		<title>
-			ул. Ново-Вокзальная
-		</title>
+		<title>Ново-Вокзальная</title>
 		<adjacentStreet>
 			на Московском шоссе
 		</adjacentStreet>
@@ -58707,9 +58045,7 @@
 		<KS_ID>
 			870
 		</KS_ID>
-		<title>
-			ул. Потапова
-		</title>
+		<title>Потапова</title>
 		<adjacentStreet>
 			на Московском шоссе
 		</adjacentStreet>
@@ -58924,9 +58260,7 @@
 		<KS_ID>
 			873
 		</KS_ID>
-		<title>
-			ул. Революционная
-		</title>
+		<title>Революционная</title>
 		<adjacentStreet>
 			на Московском шоссе
 		</adjacentStreet>
@@ -59206,9 +58540,7 @@
 		<KS_ID>
 			877
 		</KS_ID>
-		<title>
-			ул. Клиническая
-		</title>
+		<title>Клиническая</title>
 		<adjacentStreet>
 			на ул. Коммунистической
 		</adjacentStreet>
@@ -59276,9 +58608,7 @@
 		<KS_ID>
 			878
 		</KS_ID>
-		<title>
-			ул. Владимирская / Международный институт рынка
-		</title>
+		<title>Владимирская / Международный институт рынка</title>
 		<adjacentStreet>
 			на ул. Коммунистической
 		</adjacentStreet>
@@ -59491,9 +58821,7 @@
 		<KS_ID>
 			882
 		</KS_ID>
-		<title>
-			ул. Береговая
-		</title>
+		<title>Береговая</title>
 		<adjacentStreet>
 			на пр. Кирова
 		</adjacentStreet>
@@ -59854,9 +59182,7 @@
 		<KS_ID>
 			888
 		</KS_ID>
-		<title>
-			ул. Ставропольская
-		</title>
+		<title>Ставропольская</title>
 		<adjacentStreet>
 			на пр. Кирова
 		</adjacentStreet>
@@ -59926,9 +59252,7 @@
 		<KS_ID>
 			889
 		</KS_ID>
-		<title>
-			ул. Черемшанская
-		</title>
+		<title>Черемшанская</title>
 		<adjacentStreet>
 			на пр. Кирова
 		</adjacentStreet>
@@ -60142,9 +59466,7 @@
 		<KS_ID>
 			892
 		</KS_ID>
-		<title>
-			ул. Стара-Загора
-		</title>
+		<title>Стара-Загора</title>
 		<adjacentStreet>
 			на пр. Кирова
 		</adjacentStreet>
@@ -60501,9 +59823,7 @@
 		<KS_ID>
 			898
 		</KS_ID>
-		<title>
-			ул. Мичурина
-		</title>
+		<title>Мичурина</title>
 		<adjacentStreet>
 			на ул. Мичурина
 		</adjacentStreet>
@@ -60641,9 +59961,7 @@
 		<KS_ID>
 			900
 		</KS_ID>
-		<title>
-			ул. Севастопольская
-		</title>
+		<title>Севастопольская</title>
 		<adjacentStreet>
 			на пр. Металлургов
 		</adjacentStreet>
@@ -60713,9 +60031,7 @@
 		<KS_ID>
 			901
 		</KS_ID>
-		<title>
-			ул. Советская
-		</title>
+		<title>Советская</title>
 		<adjacentStreet>
 			на пр. Металлургов
 		</adjacentStreet>
@@ -60785,9 +60101,7 @@
 		<KS_ID>
 			902
 		</KS_ID>
-		<title>
-			ул. Пугачевская
-		</title>
+		<title>Пугачевская</title>
 		<adjacentStreet>
 			на пр. Металлургов
 		</adjacentStreet>
@@ -61144,9 +60458,7 @@
 		<KS_ID>
 			910
 		</KS_ID>
-		<title>
-			ул. Средне-Садовая
-		</title>
+		<title>Средне-Садовая</title>
 		<adjacentStreet>
 			на ул. Победы
 		</adjacentStreet>
@@ -61216,9 +60528,7 @@
 		<KS_ID>
 			911
 		</KS_ID>
-		<title>
-			ул. Александра Матросова
-		</title>
+		<title>Александра Матросова</title>
 		<adjacentStreet>
 			на ул. Победы
 		</adjacentStreet>
@@ -61430,9 +60740,7 @@
 		<KS_ID>
 			914
 		</KS_ID>
-		<title>
-			ул. Воронежская
-		</title>
+		<title>Воронежская</title>
 		<adjacentStreet>
 			на ул. Победы
 		</adjacentStreet>
@@ -61642,9 +60950,7 @@
 		<KS_ID>
 			917
 		</KS_ID>
-		<title>
-			ул. Советской Армии
-		</title>
+		<title>Советской Армии</title>
 		<adjacentStreet>
 			на ул. Антонова-Овсеенко
 		</adjacentStreet>
@@ -61714,9 +61020,7 @@
 		<KS_ID>
 			918
 		</KS_ID>
-		<title>
-			ул. XXII Партсъезда
-		</title>
+		<title>XXII Партсъезда</title>
 		<adjacentStreet>
 			на ул. Вольской
 		</adjacentStreet>
@@ -61926,9 +61230,7 @@
 		<KS_ID>
 			921
 		</KS_ID>
-		<title>
-			ул. Ново-Садовая / Фабрика-Кухня
-		</title>
+		<title>Ново-Садовая / Фабрика-Кухня</title>
 		<adjacentStreet>
 			на пр. Масленникова
 		</adjacentStreet>
@@ -61995,9 +61297,7 @@
 		<KS_ID>
 			922
 		</KS_ID>
-		<title>
-			ул. Мичурина
-		</title>
+		<title>Мичурина</title>
 		<adjacentStreet>
 			на пр. Масленникова
 		</adjacentStreet>
@@ -62138,9 +61438,7 @@
 		<KS_ID>
 			924
 		</KS_ID>
-		<title>
-			ул. Стара-Загора
-		</title>
+		<title>Стара-Загора</title>
 		<adjacentStreet>
 			на ул. Ташкентской
 		</adjacentStreet>
@@ -62419,9 +61717,7 @@
 		<KS_ID>
 			929
 		</KS_ID>
-		<title>
-			ул. Ивана Булкина
-		</title>
+		<title>Ивана Булкина</title>
 		<adjacentStreet>
 			на ул. Антонова-Овсеенко
 		</adjacentStreet>
@@ -62491,9 +61787,7 @@
 		<KS_ID>
 			930
 		</KS_ID>
-		<title>
-			ул. Высоцкого
-		</title>
+		<title>Высоцкого</title>
 		<adjacentStreet>
 			на ул. Высоцкого
 		</adjacentStreet>
@@ -62558,9 +61852,7 @@
 		<KS_ID>
 			932
 		</KS_ID>
-		<title>
-			ул. Мориса Тореза
-		</title>
+		<title>Мориса Тореза</title>
 		<adjacentStreet>
 			на ул. Революционной
 		</adjacentStreet>
@@ -62629,9 +61921,7 @@
 		<KS_ID>
 			933
 		</KS_ID>
-		<title>
-			ул. Юрия Гагарина
-		</title>
+		<title>Юрия Гагарина</title>
 		<adjacentStreet>
 			на ул. Революционной
 		</adjacentStreet>
@@ -62769,9 +62059,7 @@
 		<KS_ID>
 			935
 		</KS_ID>
-		<title>
-			ул. Гаражная
-		</title>
+		<title>Гаражная</title>
 		<adjacentStreet>
 			на ул. Революционной
 		</adjacentStreet>
@@ -62910,9 +62198,7 @@
 		<KS_ID>
 			937
 		</KS_ID>
-		<title>
-			ул. Челюскинцев
-		</title>
+		<title>Челюскинцев</title>
 		<adjacentStreet>
 			на ул. Ново-Садовой
 		</adjacentStreet>
@@ -62980,9 +62266,7 @@
 		<KS_ID>
 			938
 		</KS_ID>
-		<title>
-			ул. Осипенко (Станция метро "Алабинская")
-		</title>
+		<title>Осипенко (Станция метро "Алабинская")</title>
 		<adjacentStreet>
 			на ул. Ново-Садовой
 		</adjacentStreet>
@@ -63256,9 +62540,7 @@
 		<KS_ID>
 			942
 		</KS_ID>
-		<title>
-			ул. Ульяновская
-		</title>
+		<title>Ульяновская</title>
 		<adjacentStreet>
 			на ул. Самарская
 		</adjacentStreet>
@@ -63326,9 +62608,7 @@
 		<KS_ID>
 			943
 		</KS_ID>
-		<title>
-			ул. Ульяновская
-		</title>
+		<title>Ульяновская</title>
 		<adjacentStreet>
 			на ул. Самарская
 		</adjacentStreet>
@@ -63393,9 +62673,7 @@
 		<KS_ID>
 			944
 		</KS_ID>
-		<title>
-			ул. Красноармейская
-		</title>
+		<title>Красноармейская</title>
 		<adjacentStreet>
 			на ул. Самарской
 		</adjacentStreet>
@@ -63463,9 +62741,7 @@
 		<KS_ID>
 			945
 		</KS_ID>
-		<title>
-			ул. Льва Толстого
-		</title>
+		<title>Льва Толстого</title>
 		<adjacentStreet>
 			на ул. Самарской
 		</adjacentStreet>
@@ -63882,9 +63158,7 @@
 		<KS_ID>
 			951
 		</KS_ID>
-		<title>
-			ул. Авроры
-		</title>
+		<title>Авроры</title>
 		<adjacentStreet>
 			на ул. Промышленности
 		</adjacentStreet>
@@ -63951,9 +63225,7 @@
 		<KS_ID>
 			953
 		</KS_ID>
-		<title>
-			ул. Балаковская
-		</title>
+		<title>Балаковская</title>
 		<adjacentStreet>
 			на ул. Авроры
 		</adjacentStreet>
@@ -64094,9 +63366,7 @@
 		<KS_ID>
 			961
 		</KS_ID>
-		<title>
-			ул. Энтузиастов
-		</title>
+		<title>Энтузиастов</title>
 		<adjacentStreet>
 			на ул. Аэродромной
 		</adjacentStreet>
@@ -64235,9 +63505,7 @@
 		<KS_ID>
 			964
 		</KS_ID>
-		<title>
-			ул. Каховская
-		</title>
+		<title>Каховская</title>
 		<adjacentStreet>
 			на ул. Победы
 		</adjacentStreet>
@@ -64305,9 +63573,7 @@
 		<KS_ID>
 			965
 		</KS_ID>
-		<title>
-			ул. Юбилейная
-		</title>
+		<title>Юбилейная</title>
 		<adjacentStreet>
 			на ул. Победы
 		</adjacentStreet>
@@ -64377,9 +63643,7 @@
 		<KS_ID>
 			966
 		</KS_ID>
-		<title>
-			ул. Победы
-		</title>
+		<title>Победы</title>
 		<adjacentStreet>
 			на ул. Советской
 		</adjacentStreet>
@@ -64446,9 +63710,7 @@
 		<KS_ID>
 			967
 		</KS_ID>
-		<title>
-			ул. Воронежская
-		</title>
+		<title>Воронежская</title>
 		<adjacentStreet>
 			на ул. Вольской
 		</adjacentStreet>
@@ -64517,9 +63779,7 @@
 		<KS_ID>
 			968
 		</KS_ID>
-		<title>
-			ул. Ново-Вокзальная
-		</title>
+		<title>Ново-Вокзальная</title>
 		<adjacentStreet>
 			на ул. Вольской
 		</adjacentStreet>
@@ -64588,9 +63848,7 @@
 		<KS_ID>
 			969
 		</KS_ID>
-		<title>
-			ул. Александра Матросова
-		</title>
+		<title>Александра Матросова</title>
 		<adjacentStreet>
 			на ул. Вольской
 		</adjacentStreet>
@@ -65288,9 +64546,7 @@
 		<KS_ID>
 			988
 		</KS_ID>
-		<title>
-			ул. Мориса Тореза
-		</title>
+		<title>Мориса Тореза</title>
 		<adjacentStreet>
 			на ул. Революционной
 		</adjacentStreet>
@@ -65358,9 +64614,7 @@
 		<KS_ID>
 			989
 		</KS_ID>
-		<title>
-			ул. Чернореченская
-		</title>
+		<title>Чернореченская</title>
 		<adjacentStreet>
 			на ул. Владимирской
 		</adjacentStreet>
@@ -65495,9 +64749,7 @@
 		<KS_ID>
 			991
 		</KS_ID>
-		<title>
-			ул. Витебская
-		</title>
+		<title>Витебская</title>
 		<adjacentStreet>
 			на ул. Промышленности
 		</adjacentStreet>
@@ -65562,9 +64814,7 @@
 		<KS_ID>
 			993
 		</KS_ID>
-		<title>
-			ул. Владимирская
-		</title>
+		<title>Владимирская</title>
 		<adjacentStreet>
 			на ул. Пензенской
 		</adjacentStreet>
@@ -65634,9 +64884,7 @@
 		<KS_ID>
 			995
 		</KS_ID>
-		<title>
-			ул. Молодогвардейская
-		</title>
+		<title>Молодогвардейская</title>
 		<adjacentStreet>
 			на ул. Венцека
 		</adjacentStreet>
@@ -65920,9 +65168,7 @@
 		<KS_ID>
 			999
 		</KS_ID>
-		<title>
-			ул. Фадеева
-		</title>
+		<title>Фадеева</title>
 		<adjacentStreet>
 			на ул. Фадеева
 		</adjacentStreet>
@@ -66059,9 +65305,7 @@
 		<KS_ID>
 			1002
 		</KS_ID>
-		<title>
-			ул. Дыбенко
-		</title>
+		<title>Дыбенко</title>
 		<adjacentStreet>
 			на ул. Советской Армии
 		</adjacentStreet>
@@ -66685,9 +65929,7 @@
 		<KS_ID>
 			1025
 		</KS_ID>
-		<title>
-			ул. Мичурина
-		</title>
+		<title>Мичурина</title>
 		<adjacentStreet>
 			на ул. Врубеля
 		</adjacentStreet>
@@ -66823,9 +66065,7 @@
 		<KS_ID>
 			1027
 		</KS_ID>
-		<title>
-			ул. Молодежная
-		</title>
+		<title>Молодежная</title>
 		<adjacentStreet>
 			на пр. Кирова
 		</adjacentStreet>
@@ -67307,9 +66547,7 @@
 		<KS_ID>
 			1040
 		</KS_ID>
-		<title>
-			ул. Ново-Садовая
-		</title>
+		<title>Ново-Садовая</title>
 		<adjacentStreet>
 			на ул. Советской Армии
 		</adjacentStreet>
@@ -67378,9 +66616,7 @@
 		<KS_ID>
 			1041
 		</KS_ID>
-		<title>
-			ул. Ставропольская
-		</title>
+		<title>Ставропольская</title>
 		<adjacentStreet>
 			на ул. Александра Матросова
 		</adjacentStreet>
@@ -68151,9 +67387,7 @@
 		<KS_ID>
 			1072
 		</KS_ID>
-		<title>
-			ул. Обувная
-		</title>
+		<title>Обувная</title>
 		<adjacentStreet>
 			на ул. Народной
 		</adjacentStreet>
@@ -68222,9 +67456,7 @@
 		<KS_ID>
 			1073
 		</KS_ID>
-		<title>
-			ул. Заливная
-		</title>
+		<title>Заливная</title>
 		<adjacentStreet>
 			на ул. Народной
 		</adjacentStreet>
@@ -68293,9 +67525,7 @@
 		<KS_ID>
 			1077
 		</KS_ID>
-		<title>
-			ул. Карбышева
-		</title>
+		<title>Карбышева</title>
 		<adjacentStreet>
 			на ул. Антонова-Овсеенко
 		</adjacentStreet>
@@ -68507,9 +67737,7 @@
 		<KS_ID>
 			1080
 		</KS_ID>
-		<title>
-			ул. Николая Панова
-		</title>
+		<title>Николая Панова</title>
 		<adjacentStreet>
 			на ул. Ново-Садовой
 		</adjacentStreet>
@@ -68715,9 +67943,7 @@
 		<KS_ID>
 			1083
 		</KS_ID>
-		<title>
-			ул. Потапова
-		</title>
+		<title>Потапова</title>
 		<adjacentStreet>
 			на ул. Ново-Садовой
 		</adjacentStreet>
@@ -68784,9 +68010,7 @@
 		<KS_ID>
 			1084
 		</KS_ID>
-		<title>
-			ул. Гастелло
-		</title>
+		<title>Гастелло</title>
 		<adjacentStreet>
 			на ул. Ново-Садовой
 		</adjacentStreet>
@@ -69132,9 +68356,7 @@
 		<KS_ID>
 			1092
 		</KS_ID>
-		<title>
-			ул. Аминева
-		</title>
+		<title>Аминева</title>
 		<adjacentStreet>
 			на ул. Ново-Садовой
 		</adjacentStreet>
@@ -69203,9 +68425,7 @@
 		<KS_ID>
 			1093
 		</KS_ID>
-		<title>
-			ул. Губанова
-		</title>
+		<title>Губанова</title>
 		<adjacentStreet>
 			на ул. Губанова
 		</adjacentStreet>
@@ -69272,9 +68492,7 @@
 		<KS_ID>
 			1096
 		</KS_ID>
-		<title>
-			ул. Силина
-		</title>
+		<title>Силина</title>
 		<adjacentStreet>
 			на ул. Ташкентской
 		</adjacentStreet>
@@ -69617,9 +68835,7 @@
 		<KS_ID>
 			1102
 		</KS_ID>
-		<title>
-			ул. Волочаевская
-		</title>
+		<title>Волочаевская</title>
 		<adjacentStreet>
 			на ул. Ставропольской
 		</adjacentStreet>
@@ -69687,9 +68903,7 @@
 		<KS_ID>
 			1103
 		</KS_ID>
-		<title>
-			ул. Воронежская
-		</title>
+		<title>Воронежская</title>
 		<adjacentStreet>
 			на ул. Ставропольской
 		</adjacentStreet>
@@ -69898,9 +69112,7 @@
 		<KS_ID>
 			1106
 		</KS_ID>
-		<title>
-			ул. Олимпийская
-		</title>
+		<title>Олимпийская</title>
 		<adjacentStreet>
 			на ул. Алма-Атинской
 		</adjacentStreet>
@@ -70177,9 +69389,7 @@
 		<KS_ID>
 			1110
 		</KS_ID>
-		<title>
-			ул. Самарская
-		</title>
+		<title>Самарская</title>
 		<adjacentStreet>
 			на ул. Ленинградской
 		</adjacentStreet>
@@ -70602,9 +69812,7 @@
 		<KS_ID>
 			1128
 		</KS_ID>
-		<title>
-			ул. Уфимская
-		</title>
+		<title>Уфимская</title>
 		<adjacentStreet>
 			на ул. Промышленности
 		</adjacentStreet>
@@ -70671,9 +69879,7 @@
 		<KS_ID>
 			1129
 		</KS_ID>
-		<title>
-			ул. Луганская
-		</title>
+		<title>Луганская</title>
 		<adjacentStreet>
 			на ул. Промышленности
 		</adjacentStreet>
@@ -71016,9 +70222,7 @@
 		<KS_ID>
 			1134
 		</KS_ID>
-		<title>
-			ул. Горная
-		</title>
+		<title>Горная</title>
 		<adjacentStreet>
 			на ул. Новоурицкой
 		</adjacentStreet>
@@ -71154,9 +70358,7 @@
 		<KS_ID>
 			1138
 		</KS_ID>
-		<title>
-			ул. Магистральная
-		</title>
+		<title>Магистральная</title>
 		<adjacentStreet>
 			на Зубчаниновском шоссе
 		</adjacentStreet>
@@ -71508,9 +70710,7 @@
 		<KS_ID>
 			1151
 		</KS_ID>
-		<title>
-			ул. Нагорная
-		</title>
+		<title>Нагорная</title>
 		<adjacentStreet>
 			на ул. Ново-Вокзальной
 		</adjacentStreet>
@@ -71869,9 +71069,7 @@
 		<KS_ID>
 			1157
 		</KS_ID>
-		<title>
-			ул. Медицинская
-		</title>
+		<title>Медицинская</title>
 		<adjacentStreet>
 			на ул. Фасадной
 		</adjacentStreet>
@@ -72014,9 +71212,7 @@
 		<KS_ID>
 			1159
 		</KS_ID>
-		<title>
-			ул. Чкалова
-		</title>
+		<title>Чкалова</title>
 		<adjacentStreet>
 			на ул. Чкалова
 		</adjacentStreet>
@@ -72365,9 +71561,7 @@
 		<KS_ID>
 			1170
 		</KS_ID>
-		<title>
-			ул. Кабельная
-		</title>
+		<title>Кабельная</title>
 		<adjacentStreet>
 			на Заводском шоссе
 		</adjacentStreet>
@@ -72505,9 +71699,7 @@
 		<KS_ID>
 			1174
 		</KS_ID>
-		<title>
-			ул. Галактионовская
-		</title>
+		<title>Галактионовская</title>
 		<adjacentStreet>
 			на ул. Полевой
 		</adjacentStreet>
@@ -72927,9 +72119,7 @@
 		<KS_ID>
 			1180
 		</KS_ID>
-		<title>
-			ул. XXII Партсъезда
-		</title>
+		<title>XXII Партсъезда</title>
 		<adjacentStreet>
 			на ул. Физкультурной
 		</adjacentStreet>
@@ -73136,9 +72326,7 @@
 		<KS_ID>
 			1183
 		</KS_ID>
-		<title>
-			ул. Береговая
-		</title>
+		<title>Береговая</title>
 		<adjacentStreet>
 			на пр. Кирова
 		</adjacentStreet>
@@ -73203,9 +72391,7 @@
 		<KS_ID>
 			1184
 		</KS_ID>
-		<title>
-			ул. Береговая
-		</title>
+		<title>Береговая</title>
 		<adjacentStreet>
 			на пр. Кирова
 		</adjacentStreet>
@@ -73968,9 +73154,7 @@
 		<KS_ID>
 			1199
 		</KS_ID>
-		<title>
-			ул. XXII Партсъезда
-		</title>
+		<title>XXII Партсъезда</title>
 		<adjacentStreet>
 			на ул. Ставропольской
 		</adjacentStreet>
@@ -74037,9 +73221,7 @@
 		<KS_ID>
 			1200
 		</KS_ID>
-		<title>
-			ул. XXII Партсъезда
-		</title>
+		<title>XXII Партсъезда</title>
 		<adjacentStreet>
 			на ул. Ставропольской
 		</adjacentStreet>
@@ -74106,9 +73288,7 @@
 		<KS_ID>
 			1201
 		</KS_ID>
-		<title>
-			ул. Пионерская
-		</title>
+		<title>Пионерская</title>
 		<adjacentStreet>
 			на ул. Пионерской
 		</adjacentStreet>
@@ -74460,9 +73640,7 @@
 		<KS_ID>
 			1206
 		</KS_ID>
-		<title>
-			ул. Вилоновская
-		</title>
+		<title>Вилоновская</title>
 		<adjacentStreet>
 			на ул. Самарская
 		</adjacentStreet>
@@ -74667,9 +73845,7 @@
 		<KS_ID>
 			1210
 		</KS_ID>
-		<title>
-			ул. Советская
-		</title>
+		<title>Советская</title>
 		<adjacentStreet>
 			на ул. Ставропольской
 		</adjacentStreet>
@@ -74877,9 +74053,7 @@
 		<KS_ID>
 			1214
 		</KS_ID>
-		<title>
-			ул. Некрасовская
-		</title>
+		<title>Некрасовская</title>
 		<adjacentStreet>
 			на ул. Максима Горького
 		</adjacentStreet>
@@ -74946,9 +74120,7 @@
 		<KS_ID>
 			1215
 		</KS_ID>
-		<title>
-			ул. Некрасовская
-		</title>
+		<title>Некрасовская</title>
 		<adjacentStreet>
 			на ул. Максима Горького
 		</adjacentStreet>
@@ -75423,9 +74595,7 @@
 		<KS_ID>
 			1229
 		</KS_ID>
-		<title>
-			ул. Егорова
-		</title>
+		<title>Егорова</title>
 		<adjacentStreet>
 			на Пугачевском тракте
 		</adjacentStreet>
@@ -75632,9 +74802,7 @@
 		<KS_ID>
 			1232
 		</KS_ID>
-		<title>
-			ул. Грозненская
-		</title>
+		<title>Грозненская</title>
 		<adjacentStreet>
 			на Пугачевском тракте
 		</adjacentStreet>
@@ -75701,9 +74869,7 @@
 		<KS_ID>
 			1233
 		</KS_ID>
-		<title>
-			ул. Бакинская
-		</title>
+		<title>Бакинская</title>
 		<adjacentStreet>
 			на Пугачевском тракте
 		</adjacentStreet>
@@ -76261,9 +75427,7 @@
 		<KS_ID>
 			1245
 		</KS_ID>
-		<title>
-			ул. Кабельная / ЭТМ
-		</title>
+		<title>Кабельная / ЭТМ</title>
 		<adjacentStreet>
 			на ул. Двадцать Второго Партсъезда
 		</adjacentStreet>
@@ -76878,9 +76042,7 @@
 		<KS_ID>
 			1255
 		</KS_ID>
-		<title>
-			ул. Дыбенко
-		</title>
+		<title>Дыбенко</title>
 		<adjacentStreet>
 			на ул. Советской Армии
 		</adjacentStreet>
@@ -77232,9 +76394,7 @@
 		<KS_ID>
 			1260
 		</KS_ID>
-		<title>
-			ул. Антонова-Овсеенко
-		</title>
+		<title>Антонова-Овсеенко</title>
 		<adjacentStreet>
 			на ул. Советской Армии
 		</adjacentStreet>
@@ -77301,9 +76461,7 @@
 		<KS_ID>
 			1261
 		</KS_ID>
-		<title>
-			ул. Энтузиастов
-		</title>
+		<title>Энтузиастов</title>
 		<adjacentStreet>
 			на ул. Мориса Тореза
 		</adjacentStreet>
@@ -77370,9 +76528,7 @@
 		<KS_ID>
 			1262
 		</KS_ID>
-		<title>
-			ул. Энтузиастов
-		</title>
+		<title>Энтузиастов</title>
 		<adjacentStreet>
 			на ул. Мориса Тореза
 		</adjacentStreet>
@@ -77716,9 +76872,7 @@
 		<KS_ID>
 			1267
 		</KS_ID>
-		<title>
-			ул. Нефтянников
-		</title>
+		<title>Нефтянников</title>
 		<adjacentStreet>
 			на Пугачевском тракте
 		</adjacentStreet>
@@ -78124,9 +77278,7 @@
 		<KS_ID>
 			1274
 		</KS_ID>
-		<title>
-			ул. Губанова
-		</title>
+		<title>Губанова</title>
 		<adjacentStreet>
 			на ул. Солнечной
 		</adjacentStreet>
@@ -78193,9 +77345,7 @@
 		<KS_ID>
 			1275
 		</KS_ID>
-		<title>
-			ул. Ново-Вокзальная
-		</title>
+		<title>Ново-Вокзальная</title>
 		<adjacentStreet>
 			на ул. Солнечной
 		</adjacentStreet>
@@ -78263,9 +77413,7 @@
 		<KS_ID>
 			1276
 		</KS_ID>
-		<title>
-			ул. Шверника
-		</title>
+		<title>Шверника</title>
 		<adjacentStreet>
 			на ул. Солнечной
 		</adjacentStreet>
@@ -78333,9 +77481,7 @@
 		<KS_ID>
 			1277
 		</KS_ID>
-		<title>
-			ул. Солнечная
-		</title>
+		<title>Солнечная</title>
 		<adjacentStreet>
 			на ул. Солнечной
 		</adjacentStreet>
@@ -78402,9 +77548,7 @@
 		<KS_ID>
 			1278
 		</KS_ID>
-		<title>
-			ул. Ново-Садовая
-		</title>
+		<title>Ново-Садовая</title>
 		<adjacentStreet>
 			на ул. Двадцать Второго Партсъезда
 		</adjacentStreet>
@@ -78539,9 +77683,7 @@
 		<KS_ID>
 			1281
 		</KS_ID>
-		<title>
-			ул. Дзержинского
-		</title>
+		<title>Дзержинского</title>
 		<adjacentStreet>
 			на ул. Аэродромной
 		</adjacentStreet>
@@ -78610,9 +77752,7 @@
 		<KS_ID>
 			1282
 		</KS_ID>
-		<title>
-			ул. Аэродромная
-		</title>
+		<title>Аэродромная</title>
 		<adjacentStreet>
 			на ул. Дзержинского
 		</adjacentStreet>
@@ -78677,9 +77817,7 @@
 		<KS_ID>
 			1283
 		</KS_ID>
-		<title>
-			ул. Партизанская
-		</title>
+		<title>Партизанская</title>
 		<adjacentStreet>
 			на ул. Дзержинского
 		</adjacentStreet>
@@ -78744,9 +77882,7 @@
 		<KS_ID>
 			1284
 		</KS_ID>
-		<title>
-			ул. Мориса Тореза
-		</title>
+		<title>Мориса Тореза</title>
 		<adjacentStreet>
 			на ул. Авроры
 		</adjacentStreet>
@@ -78815,9 +77951,7 @@
 		<KS_ID>
 			1285
 		</KS_ID>
-		<title>
-			ул. Енисейская
-		</title>
+		<title>Енисейская</title>
 		<adjacentStreet>
 			на ул. Алма-Атинской
 		</adjacentStreet>
@@ -78953,9 +78087,7 @@
 		<KS_ID>
 			1288
 		</KS_ID>
-		<title>
-			ул. Чернореченская
-		</title>
+		<title>Чернореченская</title>
 		<adjacentStreet>
 			на ул. Владимирской
 		</adjacentStreet>
@@ -79367,9 +78499,7 @@
 		<KS_ID>
 			1295
 		</KS_ID>
-		<title>
-			ул. Авроры
-		</title>
+		<title>Авроры</title>
 		<adjacentStreet>
 			на ул. Гагарина
 		</adjacentStreet>
@@ -79508,9 +78638,7 @@
 		<KS_ID>
 			1297
 		</KS_ID>
-		<title>
-			ул. Ново-Вокзальная
-		</title>
+		<title>Ново-Вокзальная</title>
 		<adjacentStreet>
 			на ул. Солнечной
 		</adjacentStreet>
@@ -79578,9 +78706,7 @@
 		<KS_ID>
 			1298
 		</KS_ID>
-		<title>
-			ул. Губанова
-		</title>
+		<title>Губанова</title>
 		<adjacentStreet>
 			на ул. Солнечной
 		</adjacentStreet>
@@ -79991,9 +79117,7 @@
 		<KS_ID>
 			1305
 		</KS_ID>
-		<title>
-			ул. Галактионовская
-		</title>
+		<title>Галактионовская</title>
 		<adjacentStreet>
 			на ул. Красноармейской
 		</adjacentStreet>
@@ -80060,9 +79184,7 @@
 		<KS_ID>
 			1307
 		</KS_ID>
-		<title>
-			ул. Антонова-Овсеенко
-		</title>
+		<title>Антонова-Овсеенко</title>
 		<adjacentStreet>
 			на ул. Советской Армии
 		</adjacentStreet>
@@ -80681,9 +79803,7 @@
 		<KS_ID>
 			1318
 		</KS_ID>
-		<title>
-			ул. Ново-Садовая
-		</title>
+		<title>Ново-Садовая</title>
 		<adjacentStreet>
 			на ул. Губанова
 		</adjacentStreet>
@@ -82842,9 +81962,7 @@
 		<KS_ID>
 			1370
 		</KS_ID>
-		<title>
-			ул. Крупской
-		</title>
+		<title>Крупской</title>
 		<adjacentStreet>
 			на ул. Крупской
 		</adjacentStreet>
@@ -82980,9 +82098,7 @@
 		<KS_ID>
 			1384
 		</KS_ID>
-		<title>
-			ул. Пензенская
-		</title>
+		<title>Пензенская</title>
 		<adjacentStreet>
 			на ул. Пензенской
 		</adjacentStreet>
@@ -83050,9 +82166,7 @@
 		<KS_ID>
 			1385
 		</KS_ID>
-		<title>
-			ул. Молодежная
-		</title>
+		<title>Молодежная</title>
 		<adjacentStreet>
 			на ул. Молодёжной
 		</adjacentStreet>
@@ -83117,9 +82231,7 @@
 		<KS_ID>
 			1386
 		</KS_ID>
-		<title>
-			ул. Ульяновская
-		</title>
+		<title>Ульяновская</title>
 		<adjacentStreet>
 			на ул. Ульяновской
 		</adjacentStreet>
@@ -83184,9 +82296,7 @@
 		<KS_ID>
 			1387
 		</KS_ID>
-		<title>
-			ул. Арцыбушевская
-		</title>
+		<title>Арцыбушевская</title>
 		<adjacentStreet>
 			на ул. Ульяновской
 		</adjacentStreet>
@@ -83875,9 +82985,7 @@
 		<KS_ID>
 			1406
 		</KS_ID>
-		<title>
-			ул. Кутякова
-		</title>
+		<title>Кутякова</title>
 		<adjacentStreet>
 			на ул. Кутякова
 		</adjacentStreet>
@@ -84843,9 +83951,7 @@
 		<KS_ID>
 			1433
 		</KS_ID>
-		<title>
-			ул. Демократическая
-		</title>
+		<title>Демократическая</title>
 		<adjacentStreet>
 			на ул. Демократической
 		</adjacentStreet>
@@ -88139,9 +87245,7 @@
 		<KS_ID>
 			1519
 		</KS_ID>
-		<title>
-			ул. Мориса Тореза
-		</title>
+		<title>Мориса Тореза</title>
 		<adjacentStreet>
 			на ул. Мориса Тореза
 		</adjacentStreet>
@@ -88830,9 +87934,7 @@
 		<KS_ID>
 			1615
 		</KS_ID>
-		<title>
-			ул. Чернышевского
-		</title>
+		<title>Чернышевского</title>
 		<adjacentStreet>
 			в г. Кинель на ул. Пушкина
 		</adjacentStreet>
@@ -88899,9 +88001,7 @@
 		<KS_ID>
 			1616
 		</KS_ID>
-		<title>
-			ул. Шоссейная
-		</title>
+		<title>Шоссейная</title>
 		<adjacentStreet>
 			в г. Кинель на ул. Пушкина
 		</adjacentStreet>
@@ -89725,9 +88825,7 @@
 		<KS_ID>
 			1735
 		</KS_ID>
-		<title>
-			ул. Аминева
-		</title>
+		<title>Аминева</title>
 		<adjacentStreet>
 			на ул. Аминева
 		</adjacentStreet>
@@ -89794,9 +88892,7 @@
 		<KS_ID>
 			1736
 		</KS_ID>
-		<title>
-			ул. Советской Армии
-		</title>
+		<title>Советской Армии</title>
 		<adjacentStreet>
 			на ул. Антонова-Овсеенко
 		</adjacentStreet>
@@ -89935,9 +89031,7 @@
 		<KS_ID>
 			1738
 		</KS_ID>
-		<title>
-			ул. Осипенко (Станция метро "Алабинская")
-		</title>
+		<title>Осипенко (Станция метро "Алабинская")</title>
 		<adjacentStreet>
 			на ул. Ново-Садовой
 		</adjacentStreet>
@@ -90005,9 +89099,7 @@
 		<KS_ID>
 			1739
 		</KS_ID>
-		<title>
-			ул. Челюскинцев
-		</title>
+		<title>Челюскинцев</title>
 		<adjacentStreet>
 			на ул. Ново-Садовой
 		</adjacentStreet>
@@ -90216,9 +89308,7 @@
 		<KS_ID>
 			1742
 		</KS_ID>
-		<title>
-			ул. Чапаевская
-		</title>
+		<title>Чапаевская</title>
 		<adjacentStreet>
 			на ул. Чапаевской
 		</adjacentStreet>
@@ -90628,9 +89718,7 @@
 		<KS_ID>
 			1755
 		</KS_ID>
-		<title>
-			ул. Ленина
-		</title>
+		<title>Ленина</title>
 		<adjacentStreet>
 			на ул. Магистральной
 		</adjacentStreet>
@@ -90695,9 +89783,7 @@
 		<KS_ID>
 			1756
 		</KS_ID>
-		<title>
-			ул. Ленина
-		</title>
+		<title>Ленина</title>
 		<adjacentStreet>
 			на ул. Магистральной
 		</adjacentStreet>
@@ -90900,9 +89986,7 @@
 		<KS_ID>
 			1762
 		</KS_ID>
-		<title>
-			ул. Георгия Димитрова
-		</title>
+		<title>Георгия Димитрова</title>
 		<adjacentStreet>
 			на ул. Демократической
 		</adjacentStreet>
@@ -92255,9 +91339,7 @@
 		<KS_ID>
 			1783
 		</KS_ID>
-		<title>
-			ул. Мельничная
-		</title>
+		<title>Мельничная</title>
 		<adjacentStreet>
 			на ул. Мельничной
 		</adjacentStreet>
@@ -92456,9 +91538,7 @@
 		<KS_ID>
 			1788
 		</KS_ID>
-		<title>
-			ул. Транзитная
-		</title>
+		<title>Транзитная</title>
 		<adjacentStreet>
 			на ул. Транзитной
 		</adjacentStreet>
@@ -92662,9 +91742,7 @@
 		<KS_ID>
 			1793
 		</KS_ID>
-		<title>
-			ул. Солнечная
-		</title>
+		<title>Солнечная</title>
 		<adjacentStreet>
 			на ул. Солнечной
 		</adjacentStreet>
@@ -92802,9 +91880,7 @@
 		<KS_ID>
 			1795
 		</KS_ID>
-		<title>
-			ул. Ново-Вокзальная
-		</title>
+		<title>Ново-Вокзальная</title>
 		<adjacentStreet>
 			на ул. Солнечной
 		</adjacentStreet>
@@ -92871,9 +91947,7 @@
 		<KS_ID>
 			1796
 		</KS_ID>
-		<title>
-			ул. Губанова (7-я просека)
-		</title>
+		<title>Губанова (7-я просека)</title>
 		<adjacentStreet>
 			на ул. Солнечной
 		</adjacentStreet>
@@ -93147,9 +92221,7 @@
 		<KS_ID>
 			1800
 		</KS_ID>
-		<title>
-			ул. Губанова (7-я просека)
-		</title>
+		<title>Губанова (7-я просека)</title>
 		<adjacentStreet>
 			на ул. Солнечной
 		</adjacentStreet>
@@ -93357,9 +92429,7 @@
 		<KS_ID>
 			1805
 		</KS_ID>
-		<title>
-			ул. Осипенко
-		</title>
+		<title>Осипенко</title>
 		<adjacentStreet>
 			на ул. Ново-Садовой
 		</adjacentStreet>
@@ -94828,9 +93898,7 @@
 		<KS_ID>
 			1835
 		</KS_ID>
-		<title>
-			ул. Нефтянников
-		</title>
+		<title>Нефтянников</title>
 		<adjacentStreet>
 			на Пугачевском тракте
 		</adjacentStreet>
@@ -94898,9 +93966,7 @@
 		<KS_ID>
 			1836
 		</KS_ID>
-		<title>
-			ул. Нефтянников
-		</title>
+		<title>Нефтянников</title>
 		<adjacentStreet>
 			на ул. Калининградской
 		</adjacentStreet>
@@ -95592,9 +94658,7 @@
 		<KS_ID>
 			1846
 		</KS_ID>
-		<title>
-			ул. Транзитная
-		</title>
+		<title>Транзитная</title>
 		<adjacentStreet>
 			на Аэропортовском шоссе
 		</adjacentStreet>
@@ -95730,9 +94794,7 @@
 		<KS_ID>
 			1848
 		</KS_ID>
-		<title>
-			ул. Советской Армии
-		</title>
+		<title>Советской Армии</title>
 		<adjacentStreet>
 			на ул. Советской Армии
 		</adjacentStreet>
@@ -95996,9 +95058,7 @@
 		<KS_ID>
 			1852
 		</KS_ID>
-		<title>
-			ул. Алма-Атиннская
-		</title>
+		<title>Алма-Атиннская</title>
 		<adjacentStreet>
 			на ул. Олимпийской
 		</adjacentStreet>
@@ -96549,9 +95609,7 @@
 		<KS_ID>
 			1860
 		</KS_ID>
-		<title>
-			ул. Промышленности
-		</title>
+		<title>Промышленности</title>
 		<adjacentStreet>
 			на ул. Аэродромной
 		</adjacentStreet>
@@ -96760,9 +95818,7 @@
 		<KS_ID>
 			1863
 		</KS_ID>
-		<title>
-			ул. Георгия Димитрова
-		</title>
+		<title>Георгия Димитрова</title>
 		<adjacentStreet>
 			на ул. Ташкентской
 		</adjacentStreet>
@@ -96827,9 +95883,7 @@
 		<KS_ID>
 			1864
 		</KS_ID>
-		<title>
-			ул. Демократическая
-		</title>
+		<title>Демократическая</title>
 		<adjacentStreet>
 			на ул. Ташкентской
 		</adjacentStreet>
@@ -96894,9 +95948,7 @@
 		<KS_ID>
 			1865
 		</KS_ID>
-		<title>
-			ул. Зои Космодемьянской
-		</title>
+		<title>Зои Космодемьянской</title>
 		<adjacentStreet>
 			на ул. Силина
 		</adjacentStreet>
@@ -97028,9 +96080,7 @@
 		<KS_ID>
 			1867
 		</KS_ID>
-		<title>
-			ул. Зои Космодемьянской
-		</title>
+		<title>Зои Космодемьянской</title>
 		<adjacentStreet>
 			на ул. Силина
 		</adjacentStreet>
@@ -97095,9 +96145,7 @@
 		<KS_ID>
 			1868
 		</KS_ID>
-		<title>
-			ул. Ташкентская
-		</title>
+		<title>Ташкентская</title>
 		<adjacentStreet>
 			на ул. Тополей
 		</adjacentStreet>
@@ -97303,9 +96351,7 @@
 		<KS_ID>
 			1874
 		</KS_ID>
-		<title>
-			ул. Силина
-		</title>
+		<title>Силина</title>
 		<adjacentStreet>
 			на ул. Силина
 		</adjacentStreet>
@@ -97571,9 +96617,7 @@
 		<KS_ID>
 			1878
 		</KS_ID>
-		<title>
-			ул. Ивана Булкина
-		</title>
+		<title>Ивана Булкина</title>
 		<adjacentStreet>
 			на ул. Дыбенко
 		</adjacentStreet>
@@ -97640,9 +96684,7 @@
 		<KS_ID>
 			1879
 		</KS_ID>
-		<title>
-			ул. Ивана Булкина
-		</title>
+		<title>Ивана Булкина</title>
 		<adjacentStreet>
 			на ул. Дыбенко
 		</adjacentStreet>
@@ -97847,9 +96889,7 @@
 		<KS_ID>
 			1882
 		</KS_ID>
-		<title>
-			ул. Карбышева
-		</title>
+		<title>Карбышева</title>
 		<adjacentStreet>
 			на ул. Дыбенко
 		</adjacentStreet>
@@ -97916,9 +96956,7 @@
 		<KS_ID>
 			1883
 		</KS_ID>
-		<title>
-			ул. Карбышева
-		</title>
+		<title>Карбышева</title>
 		<adjacentStreet>
 			на ул. Дыбенко
 		</adjacentStreet>
@@ -97985,9 +97023,7 @@
 		<KS_ID>
 			1884
 		</KS_ID>
-		<title>
-			ул. Дыбенко
-		</title>
+		<title>Дыбенко</title>
 		<adjacentStreet>
 			на ул. Дыбенко
 		</adjacentStreet>
@@ -98052,9 +97088,7 @@
 		<KS_ID>
 			1885
 		</KS_ID>
-		<title>
-			ул. Дыбенко
-		</title>
+		<title>Дыбенко</title>
 		<adjacentStreet>
 			на ул. Дыбенко
 		</adjacentStreet>
@@ -98121,9 +97155,7 @@
 		<KS_ID>
 			1886
 		</KS_ID>
-		<title>
-			ул. Ярмарочная
-		</title>
+		<title>Ярмарочная</title>
 		<adjacentStreet>
 			на ул. Самарской
 		</adjacentStreet>
@@ -98754,9 +97786,7 @@
 		<KS_ID>
 			1897
 		</KS_ID>
-		<title>
-			ул. Бубнова
-		</title>
+		<title>Бубнова</title>
 		<adjacentStreet>
 			на Московском шоссе
 		</adjacentStreet>
@@ -98825,9 +97855,7 @@
 		<KS_ID>
 			1898
 		</KS_ID>
-		<title>
-			ул. Зои Космодемьянской
-		</title>
+		<title>Зои Космодемьянской</title>
 		<adjacentStreet>
 			на Московском шоссе
 		</adjacentStreet>
@@ -98896,9 +97924,7 @@
 		<KS_ID>
 			1899
 		</KS_ID>
-		<title>
-			ул. Зои Космодемьянской
-		</title>
+		<title>Зои Космодемьянской</title>
 		<adjacentStreet>
 			на Московском шоссе
 		</adjacentStreet>
@@ -99180,9 +98206,7 @@
 		<KS_ID>
 			1903
 		</KS_ID>
-		<title>
-			ул. Банная
-		</title>
+		<title>Банная</title>
 		<adjacentStreet>
 			на Московском шоссе
 		</adjacentStreet>
@@ -103496,9 +102520,7 @@
 		<KS_ID>
 			1968
 		</KS_ID>
-		<title>
-			ул. Галактионовская
-		</title>
+		<title>Галактионовская</title>
 		<adjacentStreet>
 			на ул. Галактионовской
 		</adjacentStreet>
@@ -103563,9 +102585,7 @@
 		<KS_ID>
 			1969
 		</KS_ID>
-		<title>
-			ул. Пионерская
-		</title>
+		<title>Пионерская</title>
 		<adjacentStreet>
 			на ул. Водников
 		</adjacentStreet>
@@ -103774,9 +102794,7 @@
 		<KS_ID>
 			1972
 		</KS_ID>
-		<title>
-			ул. Полтавская
-		</title>
+		<title>Полтавская</title>
 		<adjacentStreet>
 			на Красноглинском шоссе
 		</adjacentStreet>
@@ -103844,9 +102862,7 @@
 		<KS_ID>
 			1973
 		</KS_ID>
-		<title>
-			ул. Полтавская
-		</title>
+		<title>Полтавская</title>
 		<adjacentStreet>
 			на Красноглинском шоссе
 		</adjacentStreet>
@@ -103914,9 +102930,7 @@
 		<KS_ID>
 			1974
 		</KS_ID>
-		<title>
-			ул. Новосельская
-		</title>
+		<title>Новосельская</title>
 		<adjacentStreet>
 			на ул. Новосельская
 		</adjacentStreet>
@@ -103983,9 +102997,7 @@
 		<KS_ID>
 			1975
 		</KS_ID>
-		<title>
-			ул. Новосельская
-		</title>
+		<title>Новосельская</title>
 		<adjacentStreet>
 			на ул. Новосельская
 		</adjacentStreet>
@@ -104192,9 +103204,7 @@
 		<KS_ID>
 			1978
 		</KS_ID>
-		<title>
-			ул. Чистое поле
-		</title>
+		<title>Чистое поле</title>
 		<adjacentStreet>
 			ул. Казачья
 		</adjacentStreet>
@@ -104261,9 +103271,7 @@
 		<KS_ID>
 			1979
 		</KS_ID>
-		<title>
-			ул. Ефрема Медведева
-		</title>
+		<title>Ефрема Медведева</title>
 		<adjacentStreet>
 			на ул. Осетинская
 		</adjacentStreet>
@@ -104328,9 +103336,7 @@
 		<KS_ID>
 			1980
 		</KS_ID>
-		<title>
-			ул. Виталия Талабаева
-		</title>
+		<title>Виталия Талабаева</title>
 		<adjacentStreet>
 			на ул. Осетинская
 		</adjacentStreet>
@@ -104395,9 +103401,7 @@
 		<KS_ID>
 			1981
 		</KS_ID>
-		<title>
-			ул. Александра Солженицына
-		</title>
+		<title>Александра Солженицына</title>
 		<adjacentStreet>
 			на ул. Осетинской
 		</adjacentStreet>
@@ -104465,9 +103469,7 @@
 		<KS_ID>
 			1982
 		</KS_ID>
-		<title>
-			ул. Казачья
-		</title>
+		<title>Казачья</title>
 		<adjacentStreet>
 			на ул. Казачья
 		</adjacentStreet>
@@ -104534,9 +103536,7 @@
 		<KS_ID>
 			1983
 		</KS_ID>
-		<title>
-			ул. Чистое Поле
-		</title>
+		<title>Чистое Поле</title>
 		<adjacentStreet>
 			на ул. Казачья
 		</adjacentStreet>
@@ -104603,9 +103603,7 @@
 		<KS_ID>
 			1984
 		</KS_ID>
-		<title>
-			ул. Осетинская
-		</title>
+		<title>Осетинская</title>
 		<adjacentStreet>
 			на ул. Осетинская
 		</adjacentStreet>
@@ -104672,9 +103670,7 @@
 		<KS_ID>
 			1985
 		</KS_ID>
-		<title>
-			ул. Ефрема Медведева
-		</title>
+		<title>Ефрема Медведева</title>
 		<adjacentStreet>
 			на ул. Осетинская
 		</adjacentStreet>
@@ -104812,9 +103808,7 @@
 		<KS_ID>
 			1987
 		</KS_ID>
-		<title>
-			ул. Виталия Талабаева
-		</title>
+		<title>Виталия Талабаева</title>
 		<adjacentStreet>
 			на ул. Осетинская
 		</adjacentStreet>
@@ -104882,9 +103876,7 @@
 		<KS_ID>
 			1988
 		</KS_ID>
-		<title>
-			ул. Александра Солженицына
-		</title>
+		<title>Александра Солженицына</title>
 		<adjacentStreet>
 			на ул. Осетинская
 		</adjacentStreet>
@@ -105851,9 +104843,7 @@
 		<KS_ID>
 			2002
 		</KS_ID>
-		<title>
-			ул. Ленинградская
-		</title>
+		<title>Ленинградская</title>
 		<adjacentStreet>
 			на ул. Братьев Коростелевых
 		</adjacentStreet>
@@ -105920,9 +104910,7 @@
 		<KS_ID>
 			2003
 		</KS_ID>
-		<title>
-			ул. Владимирская
-		</title>
+		<title>Владимирская</title>
 		<adjacentStreet>
 			на ул. Владимирской
 		</adjacentStreet>
@@ -105990,9 +104978,7 @@
 		<KS_ID>
 			2004
 		</KS_ID>
-		<title>
-			ул. Климова
-		</title>
+		<title>Климова</title>
 		<adjacentStreet>
 			на ул. Климова
 		</adjacentStreet>
@@ -106266,9 +105252,7 @@
 		<KS_ID>
 			2008
 		</KS_ID>
-		<title>
-			ул. Академика Дмитрия Козлова
-		</title>
+		<title>Академика Дмитрия Козлова</title>
 		<adjacentStreet>
 			на автодороге ""Петра-Дубрава" - "Микрорайон Крутые Ключи" "
 		</adjacentStreet>
@@ -106404,9 +105388,7 @@
 		<KS_ID>
 			2010
 		</KS_ID>
-		<title>
-			ул. Веры Ершовой
-		</title>
+		<title>Веры Ершовой</title>
 		<adjacentStreet>
 			на Северном шоссе
 		</adjacentStreet>
@@ -106473,9 +105455,7 @@
 		<KS_ID>
 			2012
 		</KS_ID>
-		<title>
-			ул. Веры Ершовой
-		</title>
+		<title>Веры Ершовой</title>
 		<adjacentStreet>
 			на Северном шоссе
 		</adjacentStreet>
@@ -106611,9 +105591,7 @@
 		<KS_ID>
 			2014
 		</KS_ID>
-		<title>
-			ул. Академика Дмитрия Козлова
-		</title>
+		<title>Академика Дмитрия Козлова</title>
 		<adjacentStreet>
 			на автодороге ""Микрорайон Крутые Ключи" - "Петра-Дубрава""
 		</adjacentStreet>
@@ -106887,9 +105865,7 @@
 		<KS_ID>
 			2018
 		</KS_ID>
-		<title>
-			ул. Климова
-		</title>
+		<title>Климова</title>
 		<adjacentStreet>
 			на ул. Климова
 		</adjacentStreet>
@@ -107226,9 +106202,7 @@
 		<KS_ID>
 			2024
 		</KS_ID>
-		<title>
-			ул. Шверника
-		</title>
+		<title>Шверника</title>
 		<adjacentStreet>
 		</adjacentStreet>
 		<direction>
@@ -108589,9 +107563,7 @@
 		<KS_ID>
 			2047
 		</KS_ID>
-		<title>
-			ул. Шоссейная
-		</title>
+		<title>Шоссейная</title>
 		<adjacentStreet>
 			в г. Кинель на ул. Пушкина
 		</adjacentStreet>
@@ -108658,9 +107630,7 @@
 		<KS_ID>
 			2048
 		</KS_ID>
-		<title>
-			ул. Чернышевского
-		</title>
+		<title>Чернышевского</title>
 		<adjacentStreet>
 			в г. Кинель на ул. Пушкина
 		</adjacentStreet>
